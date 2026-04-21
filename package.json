@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "fetch-news": "tsx scripts/fetch-feeds.ts"
+    "fetch-news": "tsx scripts/fetch-feeds.ts",
+    "daily": "tsx scripts/daily-digest.ts",
+    "daily:dry": "tsx scripts/daily-digest.ts --dry"
   },
   "dependencies": {
     "clsx": "^2.1.1",

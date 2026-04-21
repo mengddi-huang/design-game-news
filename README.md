@@ -4,7 +4,7 @@
 覆盖三个板块:
 
 - 游戏 · Games — GamesIndustry.biz, Game Developer, 80 Level, Polygon, Rock Paper Shotgun
-- 视觉设计 · Visual — It's Nice That, Designboom, Eye on Design (AIGA), Typewolf, Fonts In Use
+- 视觉设计 · Visual — Designboom, Eye on Design (AIGA), Typewolf, Typewolf Blog, Creative Review
 - 交互设计 · Interaction — Smashing Magazine, UX Collective, Nielsen Norman Group, Awwwards, A List Apart
 
 每条资讯只保留标题、摘要、发布时间与原文链接,点击条目跳转到源站阅读,版权归原出版方所有。
@@ -48,6 +48,36 @@ Framework 自动识别为 Next.js,一路点下一步即可。
 npm run fetch-news              # 合并增量
 npm run fetch-news -- --fresh   # 完全重建 data/news.json
 ```
+
+## 每日企微推送
+
+每天 10:30 自动推到企业微信群机器人(macOS launchd 调度):
+
+```bash
+# 手动预览(不发送)
+npm run daily:dry
+
+# 立即触发一次(会真的推 webhook)
+npm run daily
+
+# 调节时间窗和每分类条数
+npx tsx scripts/daily-digest.ts --hours 48 --per-category 4
+```
+
+调度入口:[`launchd/com.dispatch.daily.plist`](./launchd/com.dispatch.daily.plist),
+已复制到 `~/Library/LaunchAgents/` 并 `launchctl load -w`。
+
+- 默认窗口 36 小时(周末覆盖周五晚间)
+- 每分类最多 3 条,当天该分类无新稿则跳过 — **宁缺毋滥**
+- 同时把这 9 条合并进 `data/news.json`,网站首页跟着一起新
+
+查看运行日志:
+
+```bash
+tail -f launchd/daily.log
+```
+
+如需换 webhook,改 plist 里的命令或用环境变量 `WECHAT_WEBHOOK_URL`。
 
 ### 定时更新(可选)
 

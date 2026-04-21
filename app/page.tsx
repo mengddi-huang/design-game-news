@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { Loader } from "@/components/Loader";
 import { NewsCard } from "@/components/NewsCard";
 import { FeaturedCard } from "@/components/FeaturedCard";
 import { Footer } from "@/components/Footer";
@@ -12,7 +11,6 @@ export default function Home() {
 
   return (
     <>
-      <Loader />
       <main className="relative min-h-screen pt-20 md:pt-24">
         {/* ---------- HERO / MASTHEAD ---------- */}
         <section className="px-6 md:px-10 pt-6 pb-10">
