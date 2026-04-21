@@ -8,12 +8,12 @@ export function Nav() {
         <Link
           href="/"
           data-hover
-          className="flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] text-paper"
+          className="flex items-center gap-2 text-[13px] tracking-[0.18em] text-paper"
         >
           <span className="inline-block h-1.5 w-1.5 bg-acid rounded-full" />
-          Dispatch
+          简报 Dispatch
         </Link>
-        <nav className="hidden md:flex items-center gap-6 font-mono text-[11px] uppercase tracking-[0.22em] text-paper/80">
+        <nav className="hidden md:flex items-center gap-7 text-[13px] text-paper/80">
           {CATEGORIES.map((c) => (
             <Link
               key={c.slug}
@@ -21,12 +21,12 @@ export function Nav() {
               data-hover
               className="hover:text-acid transition-colors"
             >
-              {c.labelEn}
+              {c.label}
             </Link>
           ))}
         </nav>
-        <div className="hidden md:block font-mono text-[11px] uppercase tracking-[0.22em] text-muted">
-          Ed. 01 · 2026
+        <div className="hidden md:block text-[12px] text-muted">
+          第 01 期 · 2026
         </div>
       </div>
     </header>

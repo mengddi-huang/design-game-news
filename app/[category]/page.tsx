@@ -23,7 +23,7 @@ export function generateMetadata({
   const meta = getCategoryMeta(params.category);
   if (!meta) return {};
   return {
-    title: `${meta.label} · Dispatch`,
+    title: `${meta.label} · 简报`,
     description: meta.tagline,
   };
 }
@@ -46,18 +46,18 @@ export default function CategoryPage({
   const [first, ...rest] = listForBody;
   const pageTitle = isGames ? "三角洲竞品" : meta.label;
   const pageTagline = isGames
-    ? "撤离射击与战术 FPS 赛道 — Tarkov / Arena Breakout / Gray Zone Warfare / ARC Raiders / Marathon / Warzone / Battlefield / R6 Siege."
+    ? "撤离射击与战术 FPS 赛道 —— Tarkov、Arena Breakout、Gray Zone Warfare、ARC Raiders、Marathon、Warzone、Battlefield、R6 Siege。"
     : meta.tagline;
 
   return (
     <main className="relative min-h-screen pt-20 md:pt-24">
       <section className="px-6 md:px-10 py-10">
-        <div className="eyebrow mb-4 flex items-center gap-3">
+        <div className="text-[12px] text-muted mb-4 flex items-center gap-3 tracking-wider">
           <Link href="/" data-hover className="hover:text-acid">
-            Dispatch
+            简报
           </Link>
           <span>/</span>
-          <span>{meta.labelEn}</span>
+          <span>{meta.label}</span>
         </div>
         <div className="grid grid-cols-12 gap-4 items-end">
           <h1 className="col-span-12 md:col-span-8 serif text-[44px] md:text-[72px] leading-[0.98] tracking-tightest">
@@ -66,10 +66,10 @@ export default function CategoryPage({
           </h1>
           <div className="col-span-12 md:col-span-3 md:col-start-10 md:text-right">
             <div className="text-[13px] text-muted max-w-md">{pageTagline}</div>
-            <div className="mt-3 font-mono text-[11px] uppercase tracking-[0.22em] text-acid">
-              {listForBody.length} dispatches
+            <div className="mt-3 text-[12px] text-acid">
+              {listForBody.length} 条
               {isGames && sidebar.length > 0
-                ? ` · +${sidebar.length} other`
+                ? ` · +${sidebar.length} 条其他`
                 : ""}
             </div>
           </div>
@@ -78,16 +78,16 @@ export default function CategoryPage({
 
       {first && (
         <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
-          <div className="eyebrow-acid mb-6">
-            {isGames ? "Top rival" : "Top story"}
+          <div className="text-[12px] text-acid mb-6 tracking-wider">
+            {isGames ? "头条竞品" : "头条资讯"}
           </div>
           <FeaturedCard item={first} />
         </section>
       )}
 
       <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
-        <div className="eyebrow mb-8">
-          {isGames ? "More rivals · 更多竞品" : "All stories · 全部"}
+        <div className="text-[12px] text-muted mb-8 tracking-wider">
+          {isGames ? "更多竞品" : "全部资讯"}
         </div>
         {rest.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 md:gap-x-16 gap-y-14 md:gap-y-20">
@@ -106,7 +106,9 @@ export default function CategoryPage({
         <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
           <div className="flex items-end justify-between mb-6">
             <div>
-              <div className="eyebrow mb-1">Also in games</div>
+              <div className="text-[12px] text-muted tracking-wider mb-1">
+                游戏板块 · 其他
+              </div>
               <h2 className="serif text-2xl md:text-3xl">其他游戏动态</h2>
               <p className="mt-2 text-[13px] text-muted max-w-md">
                 赛道外值得一瞥 —— 只列近期最热的 {sidebar.length} 条。
@@ -122,16 +124,18 @@ export default function CategoryPage({
       )}
 
       <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10 flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
-        <div className="eyebrow">End of stream — 已是全部</div>
+        <div className="text-[12px] text-muted tracking-wider">
+          已到底部 —— 换个板块?
+        </div>
         <div className="flex gap-6">
           {CATEGORIES.filter((c) => c.slug !== meta.slug).map((c) => (
             <Link
               key={c.slug}
               href={`/${c.slug}`}
               data-hover
-              className="font-mono text-[11px] uppercase tracking-[0.22em] hover:text-acid transition"
+              className="text-[12px] hover:text-acid transition"
             >
-              → {c.labelEn}
+              → {c.label}
             </Link>
           ))}
         </div>

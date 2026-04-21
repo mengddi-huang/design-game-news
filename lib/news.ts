@@ -26,19 +26,19 @@ export const CATEGORIES: {
     slug: "games",
     label: "游戏",
     labelEn: "Games",
-    tagline: "三角洲行动的竞品动态 · Extraction & tactical FPS rivals.",
+    tagline: "三角洲行动的竞品动态 —— 撤离射击与战术 FPS 赛道。",
   },
   {
     slug: "visual",
     label: "视觉设计",
     labelEn: "Visual",
-    tagline: "Graphic, type, identity & editorial dispatches.",
+    tagline: "平面、字体、品牌与编辑设计的一线动态。",
   },
   {
     slug: "interaction",
     label: "交互设计",
     labelEn: "Interaction",
-    tagline: "UX, UI, motion and the craft of screens.",
+    tagline: "用户体验、界面、动效,以及屏幕上的那些讲究。",
   },
 ];
 

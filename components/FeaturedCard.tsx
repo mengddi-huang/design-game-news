@@ -24,8 +24,8 @@ export function FeaturedCard({ item }: Props) {
         )}
         <div className="absolute inset-0 bg-gradient-to-t from-ink/70 via-ink/10 to-transparent" />
         {cat && (
-          <div className="absolute left-3 top-3 eyebrow-acid bg-ink/50 border border-acid/30 px-1.5 py-0.5 backdrop-blur-[2px] text-[9.5px]">
-            Featured · {cat.labelEn}
+          <div className="absolute left-3 top-3 bg-ink/50 border border-acid/30 px-1.5 py-0.5 backdrop-blur-[2px] text-[11px] text-acid">
+            精选 · {cat.label}
           </div>
         )}
       </div>
@@ -52,8 +52,8 @@ export function FeaturedCard({ item }: Props) {
             aria-hidden
             className="h-px w-8 bg-paper/40 transition-all duration-500 group-hover:w-12 group-hover:bg-acid"
           />
-          <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-muted transition-colors group-hover:text-acid">
-            Read dispatch
+          <span className="text-[12px] text-muted transition-colors group-hover:text-acid">
+            阅读全文
           </span>
           <span
             aria-hidden

@@ -73,8 +73,8 @@ export function NewsCard({ item, size = "md", showCategory = true }: Props) {
             aria-hidden
             className="h-px w-5 bg-paper/30 transition-all duration-500 group-hover:w-8 group-hover:bg-acid"
           />
-          <span className="font-mono text-[9.5px] uppercase tracking-[0.2em] text-muted transition-colors group-hover:text-acid">
-            Read
+          <span className="text-[11px] text-muted transition-colors group-hover:text-acid">
+            阅读
           </span>
           <span
             aria-hidden

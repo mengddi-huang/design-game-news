@@ -7,13 +7,13 @@ import { Nav } from "@/components/Nav";
 import { Watermark } from "@/components/Watermark";
 
 export const metadata: Metadata = {
-  title: "Dispatch — 游戏 × 设计行业资讯",
+  title: "简报 · 游戏 × 设计行业资讯",
   description:
-    "聚合游戏、视觉设计、交互设计三个行业的前沿资讯,来源包括 GamesIndustry、80 Level、Smashing Magazine、It's Nice That、Nielsen Norman Group 等。",
+    "聚合游戏、视觉设计、交互设计三个板块的前沿资讯。游戏侧聚焦三角洲行动的竞品赛道,来源包括 GamesIndustry、80 Level、Smashing Magazine、Designboom、Nielsen Norman Group 等。",
   openGraph: {
-    title: "Dispatch — Games × Design Dispatch",
+    title: "简报 Dispatch · 游戏 × 设计行业资讯",
     description:
-      "Curated news for game industry, visual design, and interaction design.",
+      "每天一句冷笑话,附上当日游戏与设计行业的最新动态。",
     type: "website",
   },
 };

@@ -12,7 +12,7 @@ export function generateMetadata({ params }: { params: { id: string } }) {
   const item = getAllNews().find((n) => n.id === params.id);
   if (!item) return {};
   return {
-    title: `${item.title} · Dispatch`,
+    title: `${item.title} · 简报`,
     description: item.excerpt,
   };
 }
@@ -33,9 +33,9 @@ export default function NewsDetailPage({
   return (
     <main className="relative min-h-screen pt-20 md:pt-24">
       <article className="px-6 md:px-10 py-10 max-w-[1200px] mx-auto">
-        <div className="eyebrow mb-6 flex flex-wrap gap-x-3">
+        <div className="text-[12px] text-muted mb-6 flex flex-wrap gap-x-3 tracking-wider">
           <Link href="/" data-hover className="hover:text-acid">
-            Dispatch
+            简报
           </Link>
           <span>/</span>
           <Link
@@ -43,10 +43,10 @@ export default function NewsDetailPage({
             data-hover
             className="hover:text-acid"
           >
-            {meta?.labelEn}
+            {meta?.label}
           </Link>
           <span>/</span>
-          <span className="text-paper/60">{item.id}</span>
+          <span className="text-paper/60 truncate max-w-[40ch]">{item.title}</span>
         </div>
 
         <div className="grid grid-cols-12 gap-4 md:gap-8 items-end mb-8">
@@ -72,27 +72,27 @@ export default function NewsDetailPage({
           </div>
         </div>
 
-        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 border-y border-paper/10 py-4 mb-8">
-          <div className="eyebrow">
-            <span className="text-muted">Source </span>
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 border-y border-paper/10 py-4 mb-8 text-[12px]">
+          <div>
+            <span className="text-muted">来源 </span>
             <span className="text-paper">{item.source}</span>
           </div>
           <span className="h-3 w-px bg-paper/20" />
-          <div className="eyebrow">
-            <span className="text-muted">Published </span>
-            <span className="text-paper font-mono">
+          <div>
+            <span className="text-muted">发布 </span>
+            <span className="text-paper">
               {formatDate(item.publishedAt)}
             </span>
           </div>
           <span className="h-3 w-px bg-paper/20" />
-          <div className="eyebrow">
-            <span className="text-muted">Category </span>
+          <div>
+            <span className="text-muted">板块 </span>
             <Link
               href={`/${item.category}`}
               data-hover
               className="text-paper hover:text-acid"
             >
-              {meta?.labelEn}
+              {meta?.label}
             </Link>
           </div>
         </div>
@@ -115,7 +115,7 @@ export default function NewsDetailPage({
               {item.excerpt}
             </p>
             <p className="mt-6 text-[13px] text-muted leading-relaxed">
-              完整内容与版权归 {item.source} 所有。Dispatch 仅聚合标题、摘要与元信息,
+              完整内容与版权归 {item.source} 所有。本站仅聚合标题、摘要与元信息,
               点击右侧按钮跳转至原文阅读。
             </p>
           </div>
@@ -125,9 +125,9 @@ export default function NewsDetailPage({
               target="_blank"
               rel="noreferrer noopener"
               data-hover
-              className="group flex items-center justify-between gap-4 border border-paper/30 px-5 py-4 font-mono text-[11px] uppercase tracking-[0.22em] hover:bg-acid hover:text-ink hover:border-acid transition"
+              className="group flex items-center justify-between gap-4 border border-paper/30 px-5 py-4 text-[13px] hover:bg-acid hover:text-ink hover:border-acid transition"
             >
-              <span>阅读原文 · Read on {item.source}</span>
+              <span>阅读原文 · 前往 {item.source}</span>
               <span
                 aria-hidden
                 className="transition-transform group-hover:translate-x-1"
@@ -142,17 +142,17 @@ export default function NewsDetailPage({
       <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
         <div className="flex items-end justify-between mb-8">
           <div>
-            <div className="eyebrow mb-2">Related</div>
+            <div className="text-[12px] text-muted tracking-wider mb-2">相关</div>
             <h2 className="serif text-2xl md:text-3xl">
-              More from {meta?.labelEn}
+              更多 {meta?.label} 动态
             </h2>
           </div>
           <Link
             href={`/${item.category}`}
             data-hover
-            className="hidden md:inline-flex font-mono text-[11px] uppercase tracking-[0.22em] hover:text-acid"
+            className="hidden md:inline-flex text-[12px] hover:text-acid"
           >
-            All {meta?.labelEn} →
+            查看全部 {meta?.label} →
           </Link>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 md:gap-x-16 gap-y-14 md:gap-y-20">
