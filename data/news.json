@@ -90,6 +90,374 @@
     ]
   },
   {
+    "id": "g-game-developer-sony-rolls-out-age-verification-for-play-0",
+    "category": "games",
+    "title": "Sony rolls out age verification for PlayStation users in the UK and Ireland",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/sony-rolls-out-age-verification-for-playstation-users-in-the-uk-and-ireland",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Users who fail to verify their age will lose access to communication features and some third-party services."
+  },
+  {
+    "id": "g-80-level-explore-a-mysterious-city-in-this-cel-sh-0",
+    "category": "games",
+    "title": "Explore a Mysterious City in This Cel-Shaded-Style Game with Handmade Animations",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/explore-a-mysterious-city-in-this-cel-shaded-style-game-with-handmade-animations/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The Explorator is an adventure game with Indiana Jones vibes.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-analysts-say-global-ram-shortage-will-ex-1",
+    "category": "games",
+    "title": "Analysts Say Global RAM Shortage Will Extend Into Next Year",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/analysts-say-global-ram-shortage-will-extend-into-next-year/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Sadly, a full return to normal conditions isn't expected anytime soon.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-artist-shares-the-process-of-creating-cu-2",
+    "category": "games",
+    "title": "Artist Shares the Process of Creating Curly Hair in Low-Poly Style",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/artist-shares-the-process-of-creating-curly-hair-in-low-poly-style/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "vivini combines softness and a low-poly aesthetic in this work.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-fallout-new-vegas-developer-chris-avello-3",
+    "category": "games",
+    "title": "Fallout: New Vegas Developer Chris Avellone Says Bethesda Doesn't Have \"Engineering Know-How\" for Its Remaster",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/fallout-new-vegas-developer-chris-avellone-says-bethesda-doesn-t-have-engineering-know-how-for-its-remaster/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "No Oblivion-level remake for us, at least in Avellone's opinion.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-new-high-fidelity-simulation-engine-rele-4",
+    "category": "games",
+    "title": "New High-Fidelity Simulation Engine Released For Blender",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/new-high-fidelity-simulation-engine-released-for-blender/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Created by an ex-Walt Disney Animation Studios engineer, HiPhyEngine is positioned as an alternative to Marvelous Designer.",
+    "tags": [
+      "News",
+      "Marketplace"
+    ]
+  },
+  {
+    "id": "g-80-level-check-out-this-free-maya-tool-that-turns-5",
+    "category": "games",
+    "title": "Check Out This Free Maya Tool That Turns Apple Devices into Facial Animation Camera",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/check-out-this-free-maya-tool-that-turns-apple-devices-into-facial-animation-camera/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Mimiq Capture works with Face ID and streams the data into Maya through a local network.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-tim-cook-steps-down-as-apple-s-ceo-after-6",
+    "category": "games",
+    "title": "Tim Cook Steps Down as Apple's CEO After 15 Years",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/tim-cook-steps-down-as-apple-s-ceo-after-15-years/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "John Ternus will take his place.",
+    "tags": [
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "g-80-level-former-playstation-president-reveals-why-7",
+    "category": "games",
+    "title": "Former PlayStation President Reveals Why He Was Fired from Role",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/former-playstation-president-reveals-why-he-was-fired-from-role/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Shuhei Yoshida was asked to do \"some ridiculous things.\"",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-listen-to-disney-songs-in-american-sign--8",
+    "category": "games",
+    "title": "Listen to Disney Songs in American Sign Language in April",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/listen-to-disney-songs-in-american-sign-language-in-april/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Enjoy three musical sequences from Frozen 2, Encanto, and Moana 2.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-ubisoft-sets-a-date-for-assassin-s-creed-9",
+    "category": "games",
+    "title": "Ubisoft Sets a Date for Assassin's Creed Black Flag Resynced Reveal",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/ubisoft-sets-a-date-for-assassin-s-creed-black-flag-resynced-reveal/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The \"gaming's worst-kept secret.\"",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-crusader-kings-3-s-latest-batch-of-major-0",
+    "category": "games",
+    "title": "Crusader Kings 3's latest batch of major expansions invite you to choose between God and gold, with playable popes and money-grabbing republican merchants",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/crusader-kings-3s-latest-batch-of-major-expansions-playable-popes-money-grabbing-republican-merchants",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Paradox have revealed the next round of expansions coming to medieval monarch strategiser Crusader Kings 3 as part of its fifth chapter of add-ons. The two major DLCs it includes…",
+    "cover": "https://assetsio.gnwcdn.com/crusader-kings-3-dlc-chapter-five-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Text",
+      "Multiplayer Competitive",
+      "Crusader Kings III"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-save-45-on-this-capable-ultralight-turtl-1",
+    "category": "games",
+    "title": "Save 45% on this capable ultralight Turtle Beach wireless gaming mouse in a limited-time Amazon deal",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/save-45-on-this-capable-ultralight-turtle-beach-wireless-gaming-mouse-in-a-limited-time-amazon-deal",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The Turtle Beach Burst II Pro is one of the newer kids on the block in the burgeoning category of ultralight gaming mice, and is a veritable treasure trove of features, with a sub…",
+    "cover": "https://assetsio.gnwcdn.com/Turtle-Beach-Burst-II-Pro-alt.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "PC Gaming Deals",
+      "Turtle Beach",
+      "Gaming Mice"
+    ]
+  },
+  {
+    "id": "v-designboom-numa-immersive-projection-system-rethink-3",
+    "category": "visual",
+    "title": "numa immersive projection system rethinks elevator as responsive spatial environment",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/readers/numa-immersive-projection-system-elevator-responsive-spatial-environment/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "set within one of the most overlooked transitional and confined spaces, numa introduces a projection system that transforms the elevator cabin into a responsive environment, resha…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/numa-immersive-projection-system-elevator-cabin-responsive-spatial-interface-designboom-700-1-500x400-22b08q85r389.jpg",
+    "tags": [
+      "readers",
+      "video",
+      "video mapping"
+    ]
+  },
+  {
+    "id": "v-designboom-geberit-choreographs-immersive-dance-of--4",
+    "category": "visual",
+    "title": "geberit choreographs immersive dance of water and light at milan design week 2026",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/geberit-ros-installation-flowformfunction-milan-design-week-2026/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "the installation configures a landscape of 300 stainless-steel springs where water droplets perform a choreographed dance – a poetic prototype of how technical mastery can meet pu…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/geberit-atelier-oi-ros-flowformfunction-designboom-700-500x400-22b08q85r765.jpg",
+    "tags": [
+      "design",
+      "Milan Design Week 2026"
+    ]
+  },
+  {
+    "id": "v-typewolf-daylight-0",
+    "category": "visual",
+    "title": "Daylight",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/daylight-health",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Grenette, Styrene",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-12-14.png"
+  },
+  {
+    "id": "v-typewolf-heart-soil-1",
+    "category": "visual",
+    "title": "Heart & Soil",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/heart-and-soil",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Cardinal, Sweet Sans, Baskerville",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-12-13.png"
+  },
+  {
+    "id": "v-typewolf-dirty-vine-2",
+    "category": "visual",
+    "title": "Dirty Vine",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/dirty-vine",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Swear, DM Mono",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-12-12.png"
+  },
+  {
+    "id": "v-typewolf-muse-3",
+    "category": "visual",
+    "title": "Muse",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/muse-paris",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: DaVinci, Suisse Int’l",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-12-11.png"
+  },
+  {
+    "id": "v-typewolf-board-4",
+    "category": "visual",
+    "title": "Board",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/board",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Kabel, Neue Haas Grotesk",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-12-10.jpg"
+  },
+  {
+    "id": "v-typewolf-elena-scott-5",
+    "category": "visual",
+    "title": "Elena Scott",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/elena-scott",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Editorial Old, Neue Montreal",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-12-09.png"
+  },
+  {
+    "id": "v-typewolf-speakeasy-6",
+    "category": "visual",
+    "title": "Speakeasy",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/speakeasy",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Tobias, Diatype, Diatype Mono",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-12-08.jpg"
+  },
+  {
+    "id": "v-typewolf-every-7",
+    "category": "visual",
+    "title": "Every",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/every-2025",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Signifier, Switzer",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-09-28.png"
+  },
+  {
+    "id": "v-typewolf-tr-studio-8",
+    "category": "visual",
+    "title": "TR Studio",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/tr-studio",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Arizona Flare, Dia",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-09-27.png"
+  },
+  {
+    "id": "v-typewolf-go-rving-9",
+    "category": "visual",
+    "title": "Go RVing",
+    "source": "Typewolf",
+    "sourceUrl": "https://www.typewolf.com/site-of-the-day/go-rving",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Fonts: Agipo, Topol, Maison Neue",
+    "cover": "https://www.typewolf.com/assets/img/sotd/2025-09-26.png"
+  },
+  {
+    "id": "v-creative-review-political-memes-propaganda-or-entertainm-0",
+    "category": "visual",
+    "title": "Political memes: propaganda or entertainment?",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/political-memes-propaganda-entertainment-conflict/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Memes are replacing the slow process of diplomacy, and are proving to be powerful weapons of communication and manipulation in complex global conflicts. Here, writer and lecturer…",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Screenshot-2026-04-20-at-10.06.39-140x91.png",
+    "tags": [
+      "Artificial Intelligence",
+      "Social Media"
+    ]
+  },
+  {
+    "id": "v-creative-review-not-wieden-kennedy-creates-identity-for--1",
+    "category": "visual",
+    "title": "Not Wieden+Kennedy creates identity for Premier Jumping League",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/not-wiedenkennedy-premier-jumping-league-identity-graphic-design/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The PJL hopes its new brand identity will help transform jumping into a global cultural phenomenon and cement its place at the forefront of the industry",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/NOT-WK_PJL_01_Logo_Static-Hfeatured-140x91.jpg"
+  },
+  {
+    "id": "v-creative-review-why-sports-brands-should-invest-in-motio-2",
+    "category": "visual",
+    "title": "Why sports brands should invest in motion",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/sports-brands-motion-design-studio-blackburn/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "For sports brands, motion design isn’t a trend – it’s the language of the game, says Studio Blackburn’s Mark Jones",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Magic-Movements-2-140x91.gif"
+  },
+  {
+    "id": "i-ux-collective-how-design-leaders-influence-decisions-w-0",
+    "category": "interaction",
+    "title": "How design leaders influence decisions without being in the room",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/how-design-leaders-influence-decisions-without-being-in-the-room-4f52fbffabba?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-21",
+    "excerpt": "How to create annotations that let your design work shine Continue reading on UX Collective »",
+    "cover": "https://cdn-images-1.medium.com/max/2600/1*H2dvi1bGTFhqYq3zHNFwbg.jpeg",
+    "tags": [
+      "ux",
+      "product-design",
+      "design"
+    ]
+  },
+  {
+    "id": "i-ux-collective-how-to-mitigate-the-risk-of-ai-implement-1",
+    "category": "interaction",
+    "title": "How to mitigate the risk of AI implementation in enterprise environments",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/how-to-mitigate-the-risk-of-ai-implementation-in-enterprise-environments-74d3bd7f9e65?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-21",
+    "excerpt": "My focus has been on the enterprise sector for years. After the 2022 ChatGPT revolution, I witnessed a massive hype around self-made AI… Continue reading on UX Collective »",
+    "cover": "https://cdn-images-1.medium.com/max/700/1*_SrLdFiij_L8efw4huzi-Q.png",
+    "tags": [
+      "product-management",
+      "product-design",
+      "ux"
+    ]
+  },
+  {
+    "id": "i-ux-collective-css-you-didn-t-know-you-could-style-2",
+    "category": "interaction",
+    "title": "CSS you didn’t know you could style",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/css-you-didnt-know-you-could-style-02a1ba1d5162?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-21",
+    "excerpt": "",
+    "tags": [
+      "web-design",
+      "ux",
+      "development"
+    ]
+  },
+  {
     "id": "i-smashing-magazine-session-timeouts-the-overlooked-accessib-0",
     "category": "interaction",
     "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
@@ -126,6 +494,566 @@
       "interaction-design",
       "chatgpt"
     ]
+  },
+  {
+    "id": "g-gamesindustry-biz-forza-horizon-6-has-reportedly-pre-sold--3",
+    "category": "games",
+    "title": "Forza Horizon 6 has reportedly pre-sold 500,000 copies on Steam a month before launch | News-in-brief",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/forza-horizon-6-has-reportedly-pre-sold-500000-copies-on-steam-a-month-before-launch-news-in-brief",
+    "publishedAt": "2026-04-20",
+    "excerpt": "",
+    "tags": [
+      "Sales data",
+      "Playground Games",
+      "Alinea Analytics"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-bafta-calls-last-minute-decision-to-pull-4",
+    "category": "games",
+    "title": "BAFTA calls last-minute decision to pull indie trailer from 2026 BAFTA Games Awards \"a compliance decision\"",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/bafta-calls-last-minute-decision-to-pull-indie-trailer-from-2026-bafta-games-awards-a-compliance-decision",
+    "publishedAt": "2026-04-20",
+    "excerpt": "BAFTA said the reason it pulled an indie game trailer from last weekend's 2026 BAFTA Games Awards was a \"compliance decision.\" Read more",
+    "cover": "https://assetsio.gnwcdn.com/ss_c6b2b9cba909dadcad9dc8095f9aa394305d5d69.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "BAFTA",
+      "Development"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-kotaku-hires-rebekah-valentine-as-senior-5",
+    "category": "games",
+    "title": "Kotaku hires Rebekah Valentine as Senior Reporter as site expands under new ownership",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/kotaku-hires-rebekah-valentine-as-senior-reporter-as-site-expands-under-new-ownership",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Venerable games media site Kotaku has announced the appointment of Rebekah Valentine as Senior Reporter, the brand's first significant hire since it was purchased from G/O Media b…",
+    "cover": "https://assetsio.gnwcdn.com/kotaku_vluNoBi.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Kotaku"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-pirate-adventure-windrose-tops-1-million-6",
+    "category": "games",
+    "title": "Pirate adventure Windrose tops 1 million copies sold in 6 days | News-in-brief",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/pirate-adventure-windrose-tops-1-million-copies-sold-in-6-days-news-in-brief",
+    "publishedAt": "2026-04-20",
+    "excerpt": "",
+    "tags": [
+      "Sales data"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-nordic-game-2026-announces-speakers-for--7",
+    "category": "games",
+    "title": "Nordic Game 2026 announces speakers for Masterclass Friday programme",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/nordic-game-2026-announces-speakers-for-masterclass-friday-programme",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Organisers for Nordic Game 2026 have revealed the speakers for this year's Masterclass Friday programme. Read more",
+    "cover": "https://assetsio.gnwcdn.com/nordic-game-masterclass.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Event",
+      "Nordic Game 2026"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-gamesindustry-biz-to-host-the-games-inve-8",
+    "category": "games",
+    "title": "GamesIndustry.biz to host The Games Investment Panel at MCM Comic Con's Indie Game Summit",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-the-games-investment-panel-at-mcm-comic-cons-indie-game-summit",
+    "publishedAt": "2026-04-20",
+    "excerpt": "GamesIndustry.biz will host The Games Investment Panel at Game Republic's Indie Games Summit during MCM London Comic Con next month. Read more",
+    "cover": "https://assetsio.gnwcdn.com/gi_logo_salmon.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Event",
+      "MCM Comic Con London"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-iron-galaxy-studios-announces-further-la-9",
+    "category": "games",
+    "title": "Iron Galaxy Studios announces further layoffs, unknown number of staff affected",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/iron-galaxy-studios-announces-further-layoffs-unknown-number-of-staff-affected",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Tony Hawk's Pro Skater 3+4 developer Iron Galaxy Studios has cut an unknown number of roles in response to \"current market conditions.\" Read more",
+    "cover": "https://assetsio.gnwcdn.com/tony-hawk-pro-skater.webp?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Iron Galaxy Studios",
+      "Layoffs"
+    ]
+  },
+  {
+    "id": "g-game-developer-pragmata-has-topped-1-million-sales-in-t-1",
+    "category": "games",
+    "title": "Pragmata has topped 1 million sales in two days",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/pragmata-has-topped-1-million-sales-in-two-days",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Capcom lauded the performance of its all-new IP."
+  },
+  {
+    "id": "g-game-developer-i-was-ignored-bafta-criticized-after-pul-2",
+    "category": "games",
+    "title": "'I was ignored:' BAFTA criticized after pulling indie game trailer from awards ceremony",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/-i-was-ignored-bafta-criticised-after-pulling-indie-game-trailer-from-awards-ceremony",
+    "publishedAt": "2026-04-20",
+    "excerpt": "BAFTA said it decided against showing a trailer for upcoming narrative title The Quiet Things to prioritize the 'wellbeing of all guests.'"
+  },
+  {
+    "id": "g-rock-paper-shotgun-how-to-buy-a-used-graphics-card-spotting-2",
+    "category": "games",
+    "title": "How to buy a used graphics card: spotting scams and dodging duds in the memory shortage crisis",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/how-to-buy-a-used-graphics-card-spotting-scams-and-dodging-duds-in-the-memory-shortage-crisis",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Oh boy, you’re looking to buy a new graphics card in 2026. As exciting as that is, howeber, there is one big catch: you have to buy a new graphics card in 2026. The impact of ongo…",
+    "cover": "https://assetsio.gnwcdn.com/image_sG1gu0o.png?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Hardware",
+      "Graphics Cards"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-this-week-in-pc-games-the-final-molyneux-3",
+    "category": "games",
+    "title": "This week in PC games: the \"final\" Molyneux game, ski resort management, Game Boy horror and a glamcore heist sim",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/this-week-in-pc-games-the-final-molyneux-game-game-boy-horror-ski-resort-management-and-a-glamcore-heist-sim",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Happy this week, all! I return from my holiday in the mountains with spirit restored, skin bronzed, and knees destroyed and reforged into coiled springs of purest Adventure. Such…",
+    "cover": "https://assetsio.gnwcdn.com/snapandgrab3.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "New PC games"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-the-shake-up-to-arc-raiders-expeditions--4",
+    "category": "games",
+    "title": "The shake up to Arc Raiders Expeditions may turn the extraction shooter into a week-long bloodbath, but it could pair well with the \"significant changes\" planned for its skill tree",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/the-shake-up-to-arc-raiders-expeditions-may-turn-the-extraction-shooter-into-a-week-long-bloodbath-but-it-could-pair-well-with-the-significant-changes-planned-for-its-skill-tree",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Embark Studios are making a big change to Arc Raiders Expeditions, the recurring event where players opt to reset most of their account data in return for some sweet, sweet skill…",
+    "cover": "https://assetsio.gnwcdn.com/arc-raiders-caravan-expeditions.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Third person",
+      "Nexon",
+      "Multiplayer Cooperative"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-the-games-industry-will-never-get-back-t-5",
+    "category": "games",
+    "title": "The games industry will never \"get back to normal\", lament Tony Hawk devs Iron Galaxy, as they make another round of layoffs",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/the-games-industry-will-never-get-back-to-normal-lament-tony-hawk-devs-iron-galaxy-as-they-make-another-round-of-layoffs",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Tony Hawk's Pro Skater 3+4 developers Iron Galaxy are laying off an unknown number of people, as they struggle to \"adapt to the climate\" of a videogames industry that is refusing…",
+    "cover": "https://assetsio.gnwcdn.com/tony-hawk-3-4.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Third person",
+      "Sports",
+      "PS4"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-if-windrose-isn-t-quenching-your-sealord-6",
+    "category": "games",
+    "title": "If Windrose isn't quenching your sealord fantasies, maybe carving out your own Libertalia in pirate citybuilder Corsair Cove will",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/if-windrose-isnt-quenching-your-sealord-fantasies-maybe-carving-out-your-own-libertalia-in-pirate-citybuilder-corsair-cove-will",
+    "publishedAt": "2026-04-20",
+    "excerpt": "As if catching the same briny breeze as early access darling Windrose, unannounced but blatantly obvious Assassin’s Creed: Black Flag Resynced, and, uh, Soulframe, there’s yet mor…",
+    "cover": "https://assetsio.gnwcdn.com/Corsair-cove-beauty-shot-3.png?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Strategy: Builder",
+      "PC",
+      "Single Player"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-soulframe-s-latest-major-update-is-a-bro-7",
+    "category": "games",
+    "title": "Soulframe's latest major update is a broadside of pirate weapons, class abilities and outfits, plus falling alien skytowers",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/soulframes-latest-major-update-is-a-broadside-of-pirate-weapons-class-abilities-and-outfits-plus-falling-alien-skytowers",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Pensive and flamboyant action-RPG Soulframe has just received a new update that adds a pirate class, together with rapiers, cutlasses, and a flouncy sailor's outfit. The class in…",
+    "cover": "https://assetsio.gnwcdn.com/soulframe-pirate-update.png?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "MMORPG",
+      "Third person",
+      "Multiplayer Cooperative"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-there-s-a-hefty-amazon-resale-discount-g-8",
+    "category": "games",
+    "title": "There's a hefty Amazon Resale discount going on AMD's excellent Ryzen 5 9600X",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/theres-a-hefty-amazon-resale-discount-going-on-amds-excellent-ryzen-5-9600x",
+    "publishedAt": "2026-04-20",
+    "excerpt": "AMD's Ryzen 5 9600X has traditionally been the most affordable entry point into Team Red's latest generation of processors, which yielded modest gains in gaming performance over t…",
+    "cover": "https://assetsio.gnwcdn.com/amd-ryzen-5-9600x-df-deal.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "PC Gaming Deals",
+      "AMD",
+      "CPU"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-the-horrible-construct-cyborgs-of-tactic-9",
+    "category": "games",
+    "title": "The horrible Construct cyborgs of tactics game Menace are getting a rework for \"style\" and \"variety\", while the devs put a bullet in the promotion tax",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/the-horrible-construct-cyborgs-of-tactics-game-menace-are-getting-a-rework-for-style-and-variety-while-the-devs-put-a-bullet-in-the-promotion-tax",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Grim and grubby mercenary tactics game Menace is getting a big update that removes a \"not-so-popular\" promotion tax, gives all units the ability to clear away wrecked vehicles, an…",
+    "cover": "https://assetsio.gnwcdn.com/construct-menace.png?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Science Fiction",
+      "Strategy",
+      "Simulation"
+    ]
+  },
+  {
+    "id": "v-designboom-drift-celebrates-lacma-s-gallery-opening-5",
+    "category": "visual",
+    "title": "DRIFT celebrates LACMA’s gallery opening with a glowing swarm of dancing drones",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/art/drift-lacma-galleries-opening-glowing-swarm-dancing-drones-los-angeles/",
+    "publishedAt": "2026-04-20",
+    "excerpt": "DRIFT's 'franchise freedom', which takes shape through swarm-based drone choreography, celebrates the opening of the new LACMA galleries. The post DRIFT celebrates LACMA’s gallery…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/DRIFT-franchise-freedom-LACMA-designboom-700-500x400-22b08q85r663.jpg",
+    "tags": [
+      "art",
+      "drone technology and design",
+      "LACMA"
+    ]
+  },
+  {
+    "id": "v-designboom-wood-stone-and-ceramic-collectible-objec-6",
+    "category": "visual",
+    "title": "wood, stone, and ceramic collectible objects compose rebirth paris exhibition",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/wood-stone-ceramic-collectible-objects-rebirth-paris-exhibition-sm-bureau/",
+    "publishedAt": "2026-04-20",
+    "excerpt": "sm bureau presents ‘rebirth’ in paris, where collectible design objects in wood, stone and ceramic are arranged as a spatial installation, exploring how material and light define…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/sm-bureau-rebirth-paris-exhibition-collectible-design-objects-wood-stone-ceramic-designboom-700-500x400-22b08q85r026.jpg",
+    "tags": [
+      "design",
+      "readers",
+      "video"
+    ]
+  },
+  {
+    "id": "v-designboom-oozing-inflatables-shape-this-modular-mi-7",
+    "category": "visual",
+    "title": "oozing inflatables shape this modular milan installation by USM and snøhetta",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/oozing-inflatables-modular-milan-installation-usm-snohetta/",
+    "publishedAt": "2026-04-20",
+    "excerpt": "snøhetta and USM shape 'renaissance of the real' in milan as a multisensory installation exploring structure softness and physical presence. The post oozing inflatables shape this…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/oozing-inflatables-modular-milan-installation-usm-snohetta-designboom-700-500x400-22b08q85r619.jpg",
+    "tags": [
+      "design",
+      "Milan Design Week 2026",
+      "snohetta"
+    ]
+  },
+  {
+    "id": "v-designboom-laila-gohar-spins-a-surreal-arket-carous-8",
+    "category": "visual",
+    "title": "laila gohar spins a surreal arket carousel of fruits and vegetables at milan design week 2026",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/art/laila-gohar-carousel-fruit-vegetables-arket-milan-design-week/",
+    "publishedAt": "2026-04-20",
+    "excerpt": "in milan, laila gohar reworks an antique carousel for ARKET, replacing its horses with oversized fruits and vegetables. The post laila gohar spins a surreal arket carousel of frui…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/laila-gohar-carousel-fruit-vegetables-arket-milan-design-week-designboom-700-500x400-22b08q85r884.jpg",
+    "tags": [
+      "art",
+      "category banner",
+      "homepage banner"
+    ]
+  },
+  {
+    "id": "v-designboom-room-for-dreams-opens-at-milan-design-we-9",
+    "category": "visual",
+    "title": "ROOM FOR DREAMS opens at milan design week 2026 with full takeover of ME milan il duca",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/room-dreams-milan-design-week-2026-full-takeover-me-milan-il-duca/",
+    "publishedAt": "2026-04-20",
+    "excerpt": "discover a supermarket of petrified products by solidnature and OMA/AMO, an immersive cinema capsule by paf atelier, and many more at piazza della repubblica this week! The post R…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/room-dreams-milan-design-week-2026-full-takeover-me-milan-il-duca-designboom-700-1-500x400-22b08q85r702.jpg",
+    "tags": [
+      "design",
+      "Milan Design Week 2026",
+      "OMA / rem koolhaas"
+    ]
+  },
+  {
+    "id": "v-creative-review-the-ad-industry-ai-and-the-environment-3",
+    "category": "visual",
+    "title": "The ad industry, AI and the environment",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/the-ad-industry-ai-and-the-environment/",
+    "publishedAt": "2026-04-20",
+    "excerpt": "As agencies and networks rush to embrace AI, its wider impact on the planet is all too often forgotten. Here we look at what creative leaders need to know and the key role they ca…",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/shutterstock_2697304313-140x91.jpg",
+    "tags": [
+      "Advice for Creatives",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "id": "v-creative-review-legora-calls-on-jude-law-to-make-legal-a-4",
+    "category": "visual",
+    "title": "Legora calls on Jude Law to make legal AI look good",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/legora-jude-law-just-got-more-attractive-campaign/",
+    "publishedAt": "2026-04-20",
+    "excerpt": "The legal tech company leans into a knowingly ‘dumb idea’ in a slick, self-aware campaign created by NoA Åkestam Holst",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Legora_Jude_Law-140x91.jpg"
+  },
+  {
+    "id": "v-creative-review-height-charts-spotlight-youth-homelessne-5",
+    "category": "visual",
+    "title": "Height charts spotlight youth homelessness in charity campaign",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/height-charts-spotlight-youth-homelessness-in-new-campaign/",
+    "publishedAt": "2026-04-20",
+    "excerpt": "We Are Mobilise and Droga5 have painted these poignant symbols of childhood on walls across Sydney and Melbourne to encourage passersby to donate",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/We-Are-Mobilise_No-Place-to-Grow-140x91.jpg"
+  },
+  {
+    "id": "i-ux-collective-the-web-trained-ai-to-deceive-now-design-5",
+    "category": "interaction",
+    "title": "The web trained AI to deceive. Now designers have to untrain it.",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/the-web-trained-ai-to-deceive-now-designers-have-to-untrain-it-420f9d3fe78e?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-20",
+    "excerpt": "",
+    "tags": [
+      "ux",
+      "ai",
+      "design"
+    ]
+  },
+  {
+    "id": "i-ux-collective-the-art-of-subtraction-in-a-world-of-inf-6",
+    "category": "interaction",
+    "title": "The art of subtraction in a world of infinite features",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/the-art-of-subtraction-in-a-world-of-infinite-features-722a9f02ed73?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-20",
+    "excerpt": "A reflection on clarity, restraint, and what it truly means to design meaningful experiences looking at the bigger picture Continue reading on UX Collective »",
+    "cover": "https://cdn-images-1.medium.com/max/1536/1*TwCsRRsIgtt1Dx3qizngIg.png",
+    "tags": [
+      "ux",
+      "design-process",
+      "design-thinking"
+    ]
+  },
+  {
+    "id": "i-ux-collective-what-we-behold-the-trust-latency-gap-des-7",
+    "category": "interaction",
+    "title": "What we behold, the trust-latency gap, designing haptics",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/what-we-behold-the-trust-latency-gap-designing-haptics-3b3469dd0103?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-20",
+    "excerpt": "",
+    "tags": [
+      "ux",
+      "design",
+      "artificial-intelligence"
+    ]
+  },
+  {
+    "id": "i-ux-collective-ai-is-ruining-the-way-you-talk-about-you-8",
+    "category": "interaction",
+    "title": "AI is ruining the way you talk about your work",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/ai-is-ruining-the-way-you-talk-about-your-work-599dbd78ea18?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-20",
+    "excerpt": "Chat UI rewards fluency, not precision. Your expertise lives in precision. Continue reading on UX Collective »",
+    "cover": "https://cdn-images-1.medium.com/max/2380/1*nt4k_B4kPvpjbze9FsR6IQ.png",
+    "tags": [
+      "product",
+      "ai",
+      "growth"
+    ]
+  },
+  {
+    "id": "i-ux-collective-the-deceptive-nature-of-today-s-ai-conve-9",
+    "category": "interaction",
+    "title": "The deceptive nature of today’s AI conversation design and how to fix it",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/the-deceptive-nature-of-todays-ai-conversation-design-and-how-to-fix-it-195c5372c388?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-20",
+    "excerpt": "",
+    "tags": [
+      "ux-writing",
+      "content-strategy",
+      "ux"
+    ]
+  },
+  {
+    "id": "g-game-developer-iron-galaxy-studios-lays-off-a-number-of-3",
+    "category": "games",
+    "title": "Iron Galaxy Studios lays off 'a number' of workers as it reduces company size",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/iron-galaxy-studios-lays-off-a-number-of-workers-as-it-reduces-company-size",
+    "publishedAt": "2026-04-17",
+    "excerpt": "'This year, we're adopting a new posture to accept these current market conditions as permanent.'"
+  },
+  {
+    "id": "g-game-developer-supporting-juniors-and-sharpening-your-c-4",
+    "category": "games",
+    "title": "Supporting juniors and sharpening your creativity",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/design/supporting-juniors-and-sharpening-your-creativity",
+    "publishedAt": "2026-04-17",
+    "excerpt": "This week, writer and self-avowed former theater kid Alexa Ray Corriea swings by for a conversation about the craft of writing and how juniors can build their skills entering the…"
+  },
+  {
+    "id": "g-game-developer-update-panic-won-t-release-playdate-titl-5",
+    "category": "games",
+    "title": "Update: Panic won't release Playdate titles that use certain forms of generative AI",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/production/panic-won-t-release-playdate-titles-that-use-some-forms-of-generative-ai",
+    "publishedAt": "2026-04-17",
+    "excerpt": "An exception is being made for developers that used 'AI assistance' when coding."
+  },
+  {
+    "id": "g-game-developer-what-egosoft-s-three-decades-of-making-s-6",
+    "category": "games",
+    "title": "What Egosoft's three decades of making space sims tells us about serving 'niche' audiences",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/pc/what-egosoft-s-three-decades-of-making-space-sims-tells-us-about-serving-niche-audiences",
+    "publishedAt": "2026-04-17",
+    "excerpt": "'Cool action in space attracts 20-year-olds now and it attracted 20-year olds 20 years ago.'"
+  },
+  {
+    "id": "g-game-developer-ubisoft-union-workers-agree-settlement-l-7",
+    "category": "games",
+    "title": "Ubisoft union workers agree settlement, legal advice for game devs, and is Xbox Game Pass too expensive? - Patch Notes #48",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/ubisoft-union-workers-agree-settlement-some-legal-advice-for-game-devs-and-is-xbox-game-pass-too-expensive-",
+    "publishedAt": "2026-04-17",
+    "excerpt": "Plus: Among Us tops 1 billion downloads on Google Play and Epic is betting big on Disney."
+  },
+  {
+    "id": "v-creative-review-sawako-kabuki-on-why-finishing-matters-m-6",
+    "category": "visual",
+    "title": "Sawako Kabuki on why finishing matters more than perfection",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/sawako-kabuki-illustration-animation/",
+    "publishedAt": "2026-04-17",
+    "excerpt": "The animator and illustrator discusses balancing commercial work with her creative instincts and the joy in making work that makes people feel uneasy",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Personal-Work-03-140x91.jpg"
+  },
+  {
+    "id": "v-creative-review-v-a-east-museum-opens-with-a-celebration-7",
+    "category": "visual",
+    "title": "V&A East Museum opens with a celebration of Black British music",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/va-east-museum-opens-with-celebration-of-black-british-music/",
+    "publishedAt": "2026-04-17",
+    "excerpt": "London’s latest cultural landmark brings together art, design, fashion and music in an ambitious bid to engage local communities",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/VA_East_Museum_Stormzy_Vest-140x91.jpg"
+  },
+  {
+    "id": "i-nielsen-norman-group-ux-conference-july-announced-jul-20-jul--0",
+    "category": "interaction",
+    "title": "UX Conference July Announced (Jul 20 - Jul 24)",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/training/july/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-04-17",
+    "excerpt": "Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX professionals. July 20 - July…",
+    "tags": [
+      "Event"
+    ]
+  },
+  {
+    "id": "i-nielsen-norman-group-boost-design-autonomy-with-an-informatio-1",
+    "category": "interaction",
+    "title": "Boost Design Autonomy with an Information Pipeline",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/information-pipeline/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-04-17",
+    "excerpt": "A four-step framework for building influence over product direction by closing the information gaps that large, complex organizations create.",
+    "tags": [
+      "Article"
+    ]
+  },
+  {
+    "id": "i-nielsen-norman-group-less-chat-more-answer-site-ai-chatbots-n-2",
+    "category": "interaction",
+    "title": "Less Chat, More Answer: Site AI Chatbots Need to Get to the Point",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/less-chat-more-answer/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-04-17",
+    "excerpt": "Users turn to site-specific chatbots for quick answers, not a conversation. Design responses that are direct, scannable, and easy to expand when needed.",
+    "tags": [
+      "Article"
+    ]
+  },
+  {
+    "id": "g-game-developer-ludum-dare-will-officially-end-in-octobe-8",
+    "category": "games",
+    "title": "Ludum Dare will officially end in October 2028",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/production/ludum-dare-will-officially-end-in-october-2028",
+    "publishedAt": "2026-04-16",
+    "excerpt": "The long-running game jam has spawned a number of successful titles such as Hollow Knight and Inscryption."
+  },
+  {
+    "id": "g-game-developer-ubisoft-halifax-union-members-agree-sett-9",
+    "category": "games",
+    "title": "Ubisoft Halifax union members agree settlement after studio closure",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/ubisoft-halifax-union-members-agree-settlement-after-studio-closure",
+    "publishedAt": "2026-04-16",
+    "excerpt": "'We are extremely grateful to our union for negotiating this package for us.'"
+  },
+  {
+    "id": "v-creative-review-inside-creativity-today-a-new-live-event-8",
+    "category": "visual",
+    "title": "Inside creativity today: a new live event from Creative Review",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/creative-review-annual-awards-2026-event-content-programme/",
+    "publishedAt": "2026-04-16",
+    "excerpt": "Join us next month for an exciting series of conversations with leading industry figures, exploring the very best of creativity today",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Creative_Review_Annual_Awards_event-140x91.jpg"
+  },
+  {
+    "id": "v-creative-review-new-young-vic-branding-pushes-back-again-9",
+    "category": "visual",
+    "title": "New Young Vic branding pushes back against the algorithm",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/young-vic-new-brand-identity-venturethree/",
+    "publishedAt": "2026-04-16",
+    "excerpt": "Venturethree’s new identity invites us to escape the ideological echo chambers of the digital world, and experience the theatre’s subversive programming",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Young_Vic_New_Logo_Yellow-140x91.jpg"
+  },
+  {
+    "id": "i-awwwards-blog-farm-minerals-case-study-0",
+    "category": "interaction",
+    "title": "Farm Minerals - Case Study",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/farm-minerals-case-study.html",
+    "publishedAt": "2026-04-15",
+    "excerpt": "IntroductionFarm Minerals is an AgriTech company developing emissions-free fertilizers and feed additives designed to improve how nutrients reach plants....",
+    "cover": "https://www.awwwards.com/awards/images/2026/04/fm-cs-thumb.jpg"
   },
   {
     "id": "i-001",
@@ -173,6 +1101,40 @@
     ]
   },
   {
+    "id": "i-smashing-magazine-how-to-improve-ux-in-legacy-systems-1",
+    "category": "interaction",
+    "title": "How To Improve UX In Legacy Systems",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/04/legacy-systems/",
+    "publishedAt": "2026-04-10",
+    "excerpt": "Practical guidelines for driving UX impact in organizations with legacy systems and broken processes. Brought to you by Measuring UX Impact, **friendly video course on UX** and de…",
+    "cover": "http://files.smashing.media/articles/how-improve-ux-legacy-systems/legacy-systems.jpg"
+  },
+  {
+    "id": "i-nielsen-norman-group-handmade-designs-the-new-trust-signal-3",
+    "category": "interaction",
+    "title": "Handmade Designs: The New Trust Signal",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/handmade-designs/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-04-10",
+    "excerpt": "In an era of AI-generated-everything, AI-fatigued users want designs that look like they were made by a person.",
+    "tags": [
+      "Article"
+    ]
+  },
+  {
+    "id": "i-nielsen-norman-group-ai-agents-as-users-4",
+    "category": "interaction",
+    "title": "AI Agents as Users",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/ai-agents-as-users/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-04-10",
+    "excerpt": "AI agents now interact with digital interfaces alongside humans. Designing for both requires rethinking what \"user\" means and prioritizing accessibility.",
+    "tags": [
+      "Article"
+    ]
+  },
+  {
     "id": "i-002",
     "category": "interaction",
     "title": "NN/g:'渐进式披露'在 2026 年的 20 种新形态",
@@ -186,6 +1148,26 @@
       "UX",
       "Patterns"
     ]
+  },
+  {
+    "id": "i-awwwards-blog-maxmara-s-woman-the-untamed-heroine-1",
+    "category": "interaction",
+    "title": "MaxMara’s Woman: the Untamed Heroine",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/maxmaras-woman-the-untamed-heroine.html",
+    "publishedAt": "2026-04-08",
+    "excerpt": "A Brand activation that speaks to the soulUntamed Heroine is a poetic tribute to resilience, identity, and the beauty of transformation.Based on...",
+    "cover": "https://www.awwwards.com/awards/images/2026/04/uh-cs-thumb.jpg"
+  },
+  {
+    "id": "i-smashing-magazine-identifying-necessary-transparency-momen-2",
+    "category": "interaction",
+    "title": "Identifying Necessary Transparency Moments In Agentic AI (Part 1)",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/04/identifying-necessary-transparency-moments-agentic-ai-part1/",
+    "publishedAt": "2026-04-07",
+    "excerpt": "Designing for agentic AI requires attention to both the system’s behavior and the transparency of its actions. Between the black box and the data dump lies a more thoughtful appro…",
+    "cover": "http://files.smashing.media/articles/identifying-necessary-transparency-moments-agentic-ai-part1/identifying-necessary-transparency-moments-agentic-ai-part1.jpg"
   },
   {
     "id": "v-002",
@@ -218,6 +1200,30 @@
     ]
   },
   {
+    "id": "i-nielsen-norman-group-ai-can-help-with-survey-writing-but-it-s-5",
+    "category": "interaction",
+    "title": "AI Can Help with Survey Writing, But It Still Requires Human Expertise",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/ai-survey-writing/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-04-03",
+    "excerpt": "AI can produce polished survey drafts quickly, but experienced human review is still needed to catch subtle survey-design flaws that weaken data quality.",
+    "tags": [
+      "Article"
+    ]
+  },
+  {
+    "id": "i-nielsen-norman-group-a-concrete-definition-of-an-ai-agent-6",
+    "category": "interaction",
+    "title": "A Concrete Definition of an AI Agent",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/definition-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-04-03",
+    "excerpt": "An AI agent pursues a goal by iteratively taking actions, evaluating progress, and deciding next steps. Useful agents must be reliable, adaptive, and accurate.",
+    "tags": [
+      "Article"
+    ]
+  },
+  {
     "id": "g-003",
     "category": "games",
     "title": "80 Level 专访:独立团队如何用 Houdini + UE5 做出电影级地形",
@@ -232,6 +1238,36 @@
       "Unreal Engine",
       "Art"
     ]
+  },
+  {
+    "id": "i-smashing-magazine-a-practical-guide-to-design-principles-3",
+    "category": "interaction",
+    "title": "A Practical Guide To Design Principles",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
+    "publishedAt": "2026-04-01",
+    "excerpt": "Design principles with references, examples, and methods for quick look-up. Brought to you by Design Patterns For AI Interfaces, **friendly video courses on UX** and design patter…",
+    "cover": "http://files.smashing.media/articles/stop-endless-debates-design-principles/practical-guide-design-principles.jpg"
+  },
+  {
+    "id": "i-awwwards-blog-100-lost-species-2",
+    "category": "interaction",
+    "title": "100 Lost Species",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/100-lost-species.html",
+    "publishedAt": "2026-04-01",
+    "excerpt": "IntroductionWith 100 Lost Species, we set out to create a digital story about extinction that people could actively explore. Developed by Immersive...",
+    "cover": "https://www.awwwards.com/awards/images/2026/04/ls-thumb.jpg"
+  },
+  {
+    "id": "i-smashing-magazine-the-joy-of-a-fresh-beginning-april-2026--4",
+    "category": "interaction",
+    "title": "The Joy Of A Fresh Beginning (April 2026 Wallpapers Edition)",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/03/desktop-wallpaper-calendars-april-2026/",
+    "publishedAt": "2026-03-31",
+    "excerpt": "With the new month just around the corner, could there be a better occasion to freshen up your desktop? If you’re looking for some unique and inspiring wallpapers to accompany you…",
+    "cover": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/58e505d3-2a5f-40ce-8be0-f284bacd9016/apr-19-inspiring-blossom-preview-opt.png"
   },
   {
     "id": "v-003",
@@ -264,6 +1300,30 @@
     ]
   },
   {
+    "id": "i-nielsen-norman-group-genui-vs-vibe-coding-who-s-designing-7",
+    "category": "interaction",
+    "title": "GenUI vs. Vibe Coding: Who’s Designing?",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/genui-vs-vibe/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-03-27",
+    "excerpt": "With generative UI, the AI system decides to generate an interactive element or entire product in response to a user need. Vibe coding is when users request the AI to build it.",
+    "tags": [
+      "Article"
+    ]
+  },
+  {
+    "id": "i-nielsen-norman-group-minimum-viable-product-mvp-definition-8",
+    "category": "interaction",
+    "title": "Minimum Viable Product (MVP): Definition",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/articles/mvp-definition/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-03-27",
+    "excerpt": "MVPs are learning tools that test whether an idea is valuable to users.",
+    "tags": [
+      "Article"
+    ]
+  },
+  {
     "id": "i-004",
     "category": "interaction",
     "title": "UX Collective:你以为的'AI 原生 UI'其实还是 Command Palette",
@@ -276,6 +1336,48 @@
     "tags": [
       "AI",
       "Critique"
+    ]
+  },
+  {
+    "id": "i-smashing-magazine-the-site-search-paradox-why-the-big-box--5",
+    "category": "interaction",
+    "title": "The Site-Search Paradox: Why The Big Box Always Wins",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
+    "publishedAt": "2026-03-26",
+    "excerpt": "Success in modern UX isn’t about having the most content. It’s about having the most findable content. Yet even with more data and better tools than ever, internal search often fa…",
+    "cover": "http://files.smashing.media/articles/site-search-paradox-why-big-box-always-wins/site-search-paradox-why-big-box-always-wins.jpg"
+  },
+  {
+    "id": "i-awwwards-blog-unesco-virtual-museum-of-stolen-cultural-3",
+    "category": "interaction",
+    "title": "UNESCO - Virtual Museum of Stolen Cultural Objects",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/unesco-virtual-museum-of-stolen-cultural-objects.html",
+    "publishedAt": "2026-03-25",
+    "excerpt": "IntroductionThe UNESCO Virtual Museum of Stolen Cultural Objects was created to make absence visible. Each stolen artifact represents a fragment of...",
+    "cover": "https://www.awwwards.com/awards/images/2026/03/som-cs-thumb.jpg"
+  },
+  {
+    "id": "i-smashing-magazine-testing-font-scaling-for-accessibility-w-6",
+    "category": "interaction",
+    "title": "Testing Font Scaling For Accessibility With Figma Variables",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/03/testing-font-scaling-accessibility-figma-variables/",
+    "publishedAt": "2026-03-24",
+    "excerpt": "Accessibility works best when it blends into everyday design workflows. The goal isn’t a big transformation, but simple work processes that fit naturally into a team’s routine. Wi…",
+    "cover": "http://files.smashing.media/articles/testing-font-scaling-accessibility-figma-variables/testing-font-scaling-accessibility-figma-variables.jpg"
+  },
+  {
+    "id": "i-nielsen-norman-group-new-artificial-intelligence-specialty-fo-9",
+    "category": "interaction",
+    "title": "New Artificial Intelligence Specialty for UX Certification",
+    "source": "Nielsen Norman Group",
+    "sourceUrl": "https://www.nngroup.com/news/item/new-ai-specialty/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "publishedAt": "2026-03-23",
+    "excerpt": "NNGroup is excited to announce the NN/G UX Certification program’s newest specialty: Artificial Intelligence (AI). As AI reshapes every part of UX work, this specialty helps pract…",
+    "tags": [
+      "Announcement"
     ]
   },
   {
@@ -310,6 +1412,16 @@
     ]
   },
   {
+    "id": "i-smashing-magazine-modal-vs-separate-page-ux-decision-tree-7",
+    "category": "interaction",
+    "title": "Modal vs. Separate Page: UX Decision Tree",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
+    "publishedAt": "2026-03-19",
+    "excerpt": "How to choose between modals and pages, when to avoid modals, and how to determine the right level of interruption or navigation. Brought to you by Smart Interface Design Patterns…",
+    "cover": "http://files.smashing.media/articles/modal-separate-page-ux-decision-tree/modal-separate-page-ux-decision-tree.jpg"
+  },
+  {
     "id": "i-005",
     "category": "interaction",
     "title": "A List Apart:'无障碍先行'如何真正影响导航组件的 API 设计",
@@ -325,6 +1437,26 @@
     ]
   },
   {
+    "id": "i-awwwards-blog-the-art-of-getting-noticed-product-desig-4",
+    "category": "interaction",
+    "title": "The Art of Getting Noticed: Product Design and Development for an Artist Social Network Startup",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/the-art-of-getting-noticed-product-design-and-development-for-an-artist-social-network-startup.html",
+    "publishedAt": "2026-03-18",
+    "excerpt": "A case study on how we helped a startup develop a professional platform and attract attention to it. A promotional website and SaaS platform for artists...",
+    "cover": "https://www.awwwards.com/awards/images/2026/03/fa-cs-thumb.jpg"
+  },
+  {
+    "id": "i-smashing-magazine-anime-vs-marvel-dc-designing-digital-pro-8",
+    "category": "interaction",
+    "title": "Anime vs. Marvel/DC: Designing Digital Products With Emotion In Flow",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/03/anime-marvel-dc-designing-digital-products-emotion-flow/",
+    "publishedAt": "2026-03-17",
+    "excerpt": "Design is about pacing and feelings as much as pixels and patterns. Alan Cohen explores Emotion in Flow and Emotion in Conflict, showing how anime like Dan Da Dan and superhero fi…",
+    "cover": "http://files.smashing.media/articles/anime-marvel-dc-designing-digital-products-emotion-flow/anime-marvel-dc-designing-digital-products-emotion-flow.jpg"
+  },
+  {
     "id": "g-005",
     "category": "games",
     "title": "Rock Paper Shotgun:在地牢里做心理剧,《Blue Prince》二周年复盘",
@@ -338,6 +1470,26 @@
       "Narrative",
       "Roguelike"
     ]
+  },
+  {
+    "id": "i-smashing-magazine-moving-from-moment-js-to-the-js-temporal-9",
+    "category": "interaction",
+    "title": "Moving From Moment.js To The JS Temporal API",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
+    "publishedAt": "2026-03-13",
+    "excerpt": "The way JavaScript handles time has evolved significantly, from the built-in `Date` API to Moment.js and now Temporal. The new standard fills gaps in the original `Date` API while…",
+    "cover": "http://files.smashing.media/articles/moving-from-moment-to-temporal-api/moving-from-moment-to-temporal-api.jpg"
+  },
+  {
+    "id": "i-awwwards-blog-bruno-s-portfolio-case-study-5",
+    "category": "interaction",
+    "title": "Bruno’s Portfolio Case Study",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/brunos-portfolio-case-study.html",
+    "publishedAt": "2026-03-11",
+    "excerpt": "In 2019, I launched my first portfolio. It was a simple world built with Three.js, where visitors could drive around in a red car and crash into things....",
+    "cover": "https://www.awwwards.com/awards/images/2026/03/bs-cs-thumb.jpg"
   },
   {
     "id": "v-005",
@@ -383,6 +1535,26 @@
       "Career",
       "Production"
     ]
+  },
+  {
+    "id": "i-awwwards-blog-stringtune-for-core-web-animations-6",
+    "category": "interaction",
+    "title": "StringTune: For Core Web Animations",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/stringtune-for-core-web-animations.html",
+    "publishedAt": "2026-03-04",
+    "excerpt": "Our high standards led us to the beginning of a long and enchanting journey of embracing a new philosophy in our approach to development.The StringTune...",
+    "cover": "https://www.awwwards.com/awards/images/2026/03/st-cs-thumbnail.jpg"
+  },
+  {
+    "id": "i-awwwards-blog-become-an-awwwards-jury-member-in-2026-7",
+    "category": "interaction",
+    "title": "Become an Awwwards Jury Member in 2026!",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/become-an-awwwards-jury-member-in-2026.html",
+    "publishedAt": "2026-03-02",
+    "excerpt": "As 2025 comes to a close, we’re embarking on the search for a new generation of Awwwards Jury members!The Awwwards Jury is the beating heart of our...",
+    "cover": "https://www.awwwards.com/awards/images/2026/03/jury-2026-thumbjpg.jpg"
   },
   {
     "id": "v-006",
@@ -431,6 +1603,16 @@
     ]
   },
   {
+    "id": "i-awwwards-blog-ribbit-case-study-8",
+    "category": "interaction",
+    "title": "Ribbit - Case Study",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/ribbit-case-study.html",
+    "publishedAt": "2026-02-25",
+    "excerpt": "Ribbit is a Copenhagen-based motion design studio founded by five longtime friends and animators who, after years freelancing for top-tier studios, decided...",
+    "cover": "https://www.awwwards.com/awards/images/2026/02/ribbit-cs-thumb.jpg"
+  },
+  {
     "id": "g-008",
     "category": "games",
     "title": "GamesIndustry:欧盟数字市场法案对独立发行商意味着什么",
@@ -444,6 +1626,16 @@
       "Policy",
       "Publishing"
     ]
+  },
+  {
+    "id": "i-awwwards-blog-inversa-case-study-9",
+    "category": "interaction",
+    "title": "Inversa - Case Study",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/inversa-case-study.html",
+    "publishedAt": "2026-02-18",
+    "excerpt": "1. IntroductionInversa equips wildlife agencies to tackle invasive species where it matters most: out in the field, knee-deep in the mud and brush....",
+    "cover": "https://www.awwwards.com/awards/images/2026/02/inversa-cs-thumb.jpg"
   },
   {
     "id": "v-007",
@@ -579,5 +1771,332 @@
       "Type Tool",
       "Variable"
     ]
+  },
+  {
+    "id": "i-a-list-apart-design-for-amiability-lessons-from-vienn-0",
+    "category": "interaction",
+    "title": "Design for Amiability: Lessons from Vienna",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/design-for-amiability-lessons-from-vienna/\t\t\t\t",
+    "publishedAt": "2025-10-15",
+    "excerpt": "Today’s web is not always an amiable place. Sites greet you with a popover that demands assent to their cookie policy, and leave you with Taboola ads promising “One Weird Trick!”…"
+  },
+  {
+    "id": "i-a-list-apart-design-dialects-breaking-the-rules-not-t-1",
+    "category": "interaction",
+    "title": "Design Dialects: Breaking the Rules, Not the System",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/\t\t\t\t",
+    "publishedAt": "2025-09-26",
+    "excerpt": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\" — Kenneth L. Pike The web has acce…"
+  },
+  {
+    "id": "i-a-list-apart-an-holistic-framework-for-shared-design--2",
+    "category": "interaction",
+    "title": "An Holistic Framework for Shared Design Leadership",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/an-holistic-framework-for-shared-design-leadership/\t\t\t\t",
+    "publishedAt": "2025-07-23",
+    "excerpt": "Picture this: You’re in a meeting room at your tech company, and two people are having what looks like the same conversation about the same design problem. One is talking about wh…"
+  },
+  {
+    "id": "i-a-list-apart-from-beta-to-bedrock-build-products-that-3",
+    "category": "interaction",
+    "title": "From Beta to Bedrock: Build Products that Stick.",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/from-beta-to-bedrock-build-products-that-stick/\t\t\t\t",
+    "publishedAt": "2025-04-23",
+    "excerpt": "As a product builder over too many years to mention, I've lost count of the number of times I've seen promising ideas go from zero to hero in a few weeks, only to fizzle out withi…"
+  },
+  {
+    "id": "i-a-list-apart-user-research-is-storytelling-4",
+    "category": "interaction",
+    "title": "User Research Is Storytelling",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/user-research-is-storytelling/\t\t\t\t",
+    "publishedAt": "2024-05-30",
+    "excerpt": "Ever since I was a boy, I’ve been fascinated with movies. I loved the characters and the excitement—but most of all the stories. I wanted to be an actor. And I believed that I’d g…",
+    "cover": "https://alistapart.com/wp-content/uploads/2024/05/user-research-is-storytelling-1-1024x391.png"
+  },
+  {
+    "id": "i-a-list-apart-to-ignite-a-personalization-practice-run-5",
+    "category": "interaction",
+    "title": "To Ignite a Personalization Practice, Run this Prepersonalization Workshop",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/prepersonalization-workshop/\t\t\t\t",
+    "publishedAt": "2024-04-16",
+    "excerpt": "Picture this. You’ve joined a squad at your company that’s designing new product features with an emphasis on automation or AI. Or your company has just implemented a personalizat…",
+    "cover": "https://alistapart.com/wp-content/uploads/2024/04/suggested-vistas-1024x684.jpg"
+  },
+  {
+    "id": "i-a-list-apart-the-wax-and-the-wane-of-the-web-6",
+    "category": "interaction",
+    "title": "The Wax and the Wane of the Web",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/the-wax-and-the-wane-of-the-web/\t\t\t\t",
+    "publishedAt": "2024-02-29",
+    "excerpt": "I offer a single bit of advice to friends and family when they become new parents: When you start to think that you’ve got everything figured out, everything will change. Just as…"
+  },
+  {
+    "id": "i-a-list-apart-opportunities-for-ai-in-accessibility-7",
+    "category": "interaction",
+    "title": "Opportunities for AI in Accessibility",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/opportunities-for-ai-in-accessibility/\t\t\t\t",
+    "publishedAt": "2024-02-07",
+    "excerpt": "In reading Joe Dolson’s recent piece on the intersection of AI and accessibility, I absolutely appreciated the skepticism that he has for AI in general as well as for the ways tha…"
+  },
+  {
+    "id": "i-a-list-apart-i-am-a-creative-8",
+    "category": "interaction",
+    "title": "I am a creative.",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/i-am-a-creative/\t\t\t\t",
+    "publishedAt": "2024-01-29",
+    "excerpt": "I am a creative. What I do is alchemy. It is a mystery. I do not so much do it, as let it be done through me. I am a creative. Not all creative people like this label. Not all see…"
+  },
+  {
+    "id": "i-a-list-apart-humility-an-essential-value-9",
+    "category": "interaction",
+    "title": "Humility: An Essential Value",
+    "source": "A List Apart",
+    "sourceUrl": "\n\t\t\t\t\thttps://alistapart.com/article/humility-an-essential-value/\t\t\t\t",
+    "publishedAt": "2023-06-22",
+    "excerpt": "Humility, a designer’s essential value—that has a nice ring to it. What about humility, an office manager’s essential value? Or a dentist’s? Or a librarian’s? They all sound great…",
+    "cover": "https://alistapart.com/wp-content/uploads/2023/06/designers-journey-2-1.jpg"
+  },
+  {
+    "id": "v-eye-on-design-the-80s-are-back-baby-0",
+    "category": "visual",
+    "title": "The ’80s Are Back, Baby",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/the-80s-are-back-baby/",
+    "publishedAt": "2022-12-07",
+    "excerpt": "This story is part of our Weekend Reads series, where we highlight a story we love from the archives. It…",
+    "tags": [
+      "Branding",
+      "spotted"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-do-gender-neutral-pronouns-need-their-ow-1",
+    "category": "visual",
+    "title": "Do Gender-Neutral Pronouns Need Their Own Glyphs?",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/do-gender-neutral-pronouns-need-their-own-glyphs/",
+    "publishedAt": "2022-12-01",
+    "excerpt": "This story is part of our Weekend Reads series, where we highlight a story we love from the archives. It…",
+    "tags": [
+      "Design + Gender",
+      "Typography",
+      "design + gender"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-unconventional-sleep-aids-are-in-vogue-a-2",
+    "category": "visual",
+    "title": "Unconventional Sleep Aids Are in Vogue, and They’re Designed To Chill You Out",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/food-and-beverage-packaging-is-getting-very-sleepy/",
+    "publishedAt": "2022-11-14",
+    "excerpt": "This story is part of our Weekend Reads series, where we highlight a story we love from the archives. It…",
+    "tags": [
+      "Branding",
+      "Packaging design"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-the-y2k-aesthetic-is-fully-back-but-can--3",
+    "category": "visual",
+    "title": "The Y2K Aesthetic is Fully Back, but Can It Stick Around?",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/the-y2k-aesthetic-is-fully-back-but-can-it-stick-around/",
+    "publishedAt": "2022-10-27",
+    "excerpt": "When editor and consultant Casey Lewis started her newsletter digest on youth culture, After School, she instinctively gravitated towards pastel…",
+    "tags": [
+      "Graphic design"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-the-liberatory-potential-of-teaching-des-4",
+    "category": "visual",
+    "title": "The Liberatory Potential of Teaching Design from a Body in Pain",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/the-liberatory-potential-of-teaching-design-from-a-body-in-pain/",
+    "publishedAt": "2022-10-26",
+    "excerpt": "One afternoon last spring, I collected a bag of small stones from the dried out river in my local park.…",
+    "tags": [
+      "Design + Diversity",
+      "Design + Education",
+      "Design + Mental Health"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-exploring-unfamiliar-histories-of-visual-5",
+    "category": "visual",
+    "title": "“Exploring Unfamiliar Histories of Visual Culture” — Four Corners Books Shares Its Favorite Publications",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/exploring-unfamiliar-histories-of-visual-culture-four-corners-books-shares-its-favorite-publications/",
+    "publishedAt": "2022-10-24",
+    "excerpt": "Run by Richard Embray and Elinor Jansz, Four Corners Books is a London-based publishing house that seeks to bring art…",
+    "tags": [
+      "Books",
+      "Graphic design"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-how-heart-shaped-frames-became-a-symbol--6",
+    "category": "visual",
+    "title": "How Heart-Shaped Frames Became a Symbol of Reclaimed Femininity and a Non-binary Fashion Staple",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/how-heart-shaped-frames-became-a-symbol-of-reclaimed-femininity-and-a-non-binary-fashion-staple/",
+    "publishedAt": "2022-10-20",
+    "excerpt": "Joey Donatelli slides their glasses off and proudly holds them in front of the camera, as though bestowing an all-powerful…",
+    "tags": [
+      "Design + Gender",
+      "Design + Sexuality",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-the-collaborative-spirit-behind-brian-en-7",
+    "category": "visual",
+    "title": "The Collaborative Spirit Behind Brian Eno’s Record Sleeve Designs",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/the-collaborative-spirit-behind-brian-enos-record-sleeve-designs/",
+    "publishedAt": "2022-10-17",
+    "excerpt": "It was Brian Eno who invented the term ‘scenius,’ which counters the myth of the lone genius and credits the…",
+    "tags": [
+      "Design + Music",
+      "Graphic design"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-five-beautiful-book-covers-and-the-stori-8",
+    "category": "visual",
+    "title": "Five Beautiful Book Covers and the Stories Behind Them",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/five-beautiful-book-covers-and-the-stories-behind-them/",
+    "publishedAt": "2022-10-13",
+    "excerpt": "Artwork. Advertisement. Encapsulation. Billboard. Brand. A book cover is many things — and the best ones tend to be all…",
+    "tags": [
+      "Books",
+      "Branding",
+      "Graphic design"
+    ]
+  },
+  {
+    "id": "v-eye-on-design-a-font-inspired-by-egyptian-streets-that-9",
+    "category": "visual",
+    "title": "A Font Inspired by Egyptian Streets That Addresses a Problem for Arabic Designers",
+    "source": "Eye on Design",
+    "sourceUrl": "https://eyeondesign.aiga.org/a-font-inspired-by-egyptian-streets-that-addresses-a-big-problem-for-arabic-designers/",
+    "publishedAt": "2022-10-11",
+    "excerpt": "Name: Felfel Designer: Abdo Mohamed Foundry: Boharat Release Date: Initially 2021, but the font is still in progress Back Story: Independent type…",
+    "tags": [
+      "Graphic design",
+      "Type Tuesday",
+      "Typography"
+    ]
+  },
+  {
+    "id": "v-typewolf-blog-p-fonts-in-popular-culture-identified-vo-0",
+    "category": "visual",
+    "title": "<p>Fonts in Popular Culture Identified Vol. 3</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-3",
+    "publishedAt": "2021-05-03",
+    "excerpt": "This is the third installment of my blog series on Typewolf, where I identify the fonts used in popular things. The focus here is on anything you might encounter in contemporary v…",
+    "cover": "https://www.typewolf.com/assets/blog/2021-05-03/fonts-identified-collage.jpg"
+  },
+  {
+    "id": "v-typewolf-blog-p-fonts-in-popular-culture-identified-vo-1",
+    "category": "visual",
+    "title": "<p>Fonts in Popular Culture Identified Vol. 2</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-2",
+    "publishedAt": "2020-11-09",
+    "excerpt": "This is the second installment of my blog series on Typewolf, where I identify the fonts used in popular things. The focus here is on anything you might encounter in contemporary…",
+    "cover": "https://www.typewolf.com/assets/blog/2020-11-09/fonts-identified-collage.jpg"
+  },
+  {
+    "id": "v-typewolf-blog-p-fonts-in-popular-culture-identified-vo-2",
+    "category": "visual",
+    "title": "<p>Fonts in Popular Culture Identified Vol. 1</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/fonts-in-popular-culture-identified-vol-1",
+    "publishedAt": "2020-04-13",
+    "excerpt": "Welcome to the first installment of a new series on Typewolf, where I’ll be identifying the fonts used in popular things. The focus here is on anything you might encounter in cont…",
+    "cover": "https://www.typewolf.com/assets/blog/2020-04-13/fonts-identified-collage.jpg"
+  },
+  {
+    "id": "v-typewolf-blog-p-after-nearly-five-years-i-m-saying-goo-3",
+    "category": "visual",
+    "title": "<p>After Nearly Five Years, I’m Saying Goodbye to My Favorite Sites of the Month Blog Posts</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/goodbye-to-favorite-sites-posts",
+    "publishedAt": "2018-11-01",
+    "excerpt": "I couldn’t keep writing these forever—it’s finally time to say goodbye. Begin here and travel back through 56 months of nice type. I started writing these monthly favorite site ro…",
+    "cover": "https://www.typewolf.com/assets/blog/2018-11-01/typewolf-favorite-sites-collage.jpg"
+  },
+  {
+    "id": "v-typewolf-blog-p-the-typographic-details-behind-typewol-4",
+    "category": "visual",
+    "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of September 2018</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/favorite-sites-of-september-2018",
+    "publishedAt": "2018-10-03",
+    "excerpt": "This is the 56th installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic…",
+    "cover": "https://www.typewolf.com/assets/blog/2018-10-03/04.png"
+  },
+  {
+    "id": "v-typewolf-blog-p-the-typographic-details-behind-typewol-5",
+    "category": "visual",
+    "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of August 2018</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/favorite-sites-of-august-2018",
+    "publishedAt": "2018-09-03",
+    "excerpt": "This is the 55th installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic…",
+    "cover": "https://www.typewolf.com/assets/blog/2018-09-03/04.png"
+  },
+  {
+    "id": "v-typewolf-blog-p-the-typographic-details-behind-typewol-6",
+    "category": "visual",
+    "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of July 2018</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/favorite-sites-of-july-2018",
+    "publishedAt": "2018-08-01",
+    "excerpt": "This is the 54th installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic…",
+    "cover": "https://www.typewolf.com/assets/blog/2018-08-01/04.png"
+  },
+  {
+    "id": "v-typewolf-blog-p-the-typographic-details-behind-typewol-7",
+    "category": "visual",
+    "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of June 2018</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/favorite-sites-of-june-2018",
+    "publishedAt": "2018-07-05",
+    "excerpt": "This is the 53rd installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic…",
+    "cover": "https://www.typewolf.com/assets/blog/2018-07-05/04.png"
+  },
+  {
+    "id": "v-typewolf-blog-p-the-typographic-details-behind-typewol-8",
+    "category": "visual",
+    "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of May 2018</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/favorite-sites-of-may-2018",
+    "publishedAt": "2018-06-03",
+    "excerpt": "This is the 52nd installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic…",
+    "cover": "https://www.typewolf.com/assets/blog/2018-06-03/04.png"
+  },
+  {
+    "id": "v-typewolf-blog-p-the-typographic-details-behind-typewol-9",
+    "category": "visual",
+    "title": "<p>The Typographic Details Behind Typewolf’s Favorite Sites of April 2018</p>",
+    "source": "Typewolf Blog",
+    "sourceUrl": "https://www.typewolf.com/blog/favorite-sites-of-april-2018",
+    "publishedAt": "2018-05-03",
+    "excerpt": "This is the 51st installment of my monthly feature on Typewolf where I share my favorite type-driven websites from the previous month and then write a little about the typographic…",
+    "cover": "https://www.typewolf.com/assets/blog/2018-05-03/04.jpg"
   }
 ]
