@@ -80,3 +80,17 @@ jobs:
           WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
           DISPATCH_SITE_URL: ${{ steps.deploy.outputs.page_url }}
         run: npx tsx scripts/daily-digest.ts --mode joke
+
+      - name: Persist joke rotation state
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
+        run: |
+          if [[ -n "$(git status --porcelain data/joke-state.json)" ]]; then
+            git config user.name  "dispatch-bot"
+            git config user.email "dispatch-bot@users.noreply.github.com"
+            git add data/joke-state.json
+            git commit -m "chore(joke): rotate $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          else
+            echo "No joke state change."
+          fi

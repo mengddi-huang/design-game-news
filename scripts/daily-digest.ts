@@ -33,22 +33,59 @@ type Mode = "full" | "link" | "joke";
 
 const requireJson = createRequire(import.meta.url);
 
-function pickDailyJoke(): string {
-  const jokes = requireJson("../data/jokes.json") as string[];
-  // Deterministic daily rotation: day-of-year modulo length.
-  const now = new Date();
-  const start = Date.UTC(now.getUTCFullYear(), 0, 0);
-  const dayOfYear = Math.floor((now.getTime() - start) / 86_400_000);
-  return jokes[dayOfYear % jokes.length];
+const JOKE_STATE_FILE = path.join(process.cwd(), "data", "joke-state.json");
+
+interface JokeState {
+  recent: number[];
 }
 
-function formatJokeMessage(siteUrl: string): string {
+async function readJokeState(): Promise<JokeState> {
+  try {
+    const raw = await fs.readFile(JOKE_STATE_FILE, "utf8");
+    const parsed = JSON.parse(raw) as JokeState;
+    if (Array.isArray(parsed.recent)) return parsed;
+  } catch {}
+  return { recent: [] };
+}
+
+async function writeJokeState(state: JokeState, dry: boolean): Promise<void> {
+  if (dry) return;
+  await fs.writeFile(JOKE_STATE_FILE, JSON.stringify(state, null, 2) + "\n", "utf8");
+}
+
+/**
+ * Pick a random joke index that wasn't used in the recent window.
+ * Recent window size = floor(jokes.length * 0.8) so we cycle through almost
+ * the entire pool before repeating anything, guaranteeing "每次都不一样" in
+ * practice unless you push many dozens of times.
+ */
+async function pickJoke(dry: boolean): Promise<string> {
+  const jokes = requireJson("../data/jokes.json") as string[];
+  if (jokes.length === 0) throw new Error("data/jokes.json is empty");
+
+  const state = await readJokeState();
+  const windowSize = Math.max(1, Math.floor(jokes.length * 0.8));
+  const banned = new Set(state.recent.slice(-windowSize));
+
+  const candidates: number[] = [];
+  for (let i = 0; i < jokes.length; i++) if (!banned.has(i)) candidates.push(i);
+  const pool = candidates.length > 0 ? candidates : jokes.map((_, i) => i);
+
+  const pickedIdx = pool[Math.floor(Math.random() * pool.length)];
+
+  const nextRecent = [...state.recent, pickedIdx].slice(-windowSize);
+  await writeJokeState({ recent: nextRecent }, dry);
+
+  return jokes[pickedIdx];
+}
+
+function formatJokeMessage(joke: string, siteUrl: string): string {
   const today = new Date();
   const stamp = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, "0")}-${String(today.getDate()).padStart(2, "0")}`;
   return [
     `<font color="comment">Dispatch · ${stamp} · 冷笑话</font>`,
     "",
-    pickDailyJoke(),
+    joke,
     "",
     `[→ 今日资讯请戳这里](${siteUrl})`,
   ].join("\n");
@@ -291,7 +328,8 @@ async function main() {
 
   // Joke mode only needs the site URL; skip the (slow) RSS fetch entirely.
   if (args.mode === "joke") {
-    const md = formatJokeMessage(args.siteUrl);
+    const joke = await pickJoke(args.dry);
+    const md = formatJokeMessage(joke, args.siteUrl);
     if (args.dry) {
       console.log("\n--- PREVIEW ---\n");
       console.log(md);
