@@ -77,7 +77,7 @@ export default function CategoryPage({
       </section>
 
       {first && (
-        <section className="px-6 md:px-10 py-10 border-t border-paper/10">
+        <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
           <div className="eyebrow-acid mb-6">
             {isGames ? "Top rival" : "Top story"}
           </div>
@@ -85,12 +85,12 @@ export default function CategoryPage({
         </section>
       )}
 
-      <section className="px-6 md:px-10 py-12 border-t border-paper/10">
+      <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
         <div className="eyebrow mb-8">
           {isGames ? "More rivals · 更多竞品" : "All stories · 全部"}
         </div>
         {rest.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 md:gap-x-16 gap-y-14 md:gap-y-20">
             {rest.map((item) => (
               <NewsCard key={item.id} item={item} size="md" showCategory={false} />
             ))}
@@ -103,7 +103,7 @@ export default function CategoryPage({
       </section>
 
       {isGames && sidebar.length > 0 && (
-        <section className="px-6 md:px-10 py-12 border-t border-paper/10">
+        <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
           <div className="flex items-end justify-between mb-6">
             <div>
               <div className="eyebrow mb-1">Also in games</div>
@@ -113,7 +113,7 @@ export default function CategoryPage({
               </p>
             </div>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 md:gap-x-16 gap-y-14 md:gap-y-20">
             {sidebar.map((item) => (
               <NewsCard key={item.id} item={item} size="md" showCategory={false} />
             ))}
@@ -121,7 +121,7 @@ export default function CategoryPage({
         </section>
       )}
 
-      <section className="px-6 md:px-10 py-10 border-t border-paper/10 flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
+      <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10 flex flex-col md:flex-row gap-4 items-start md:items-center justify-between">
         <div className="eyebrow">End of stream — 已是全部</div>
         <div className="flex gap-6">
           {CATEGORIES.filter((c) => c.slug !== meta.slug).map((c) => (

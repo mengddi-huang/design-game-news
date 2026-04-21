@@ -58,7 +58,7 @@ export default function Home() {
         </section>
 
         {/* ---------- FEATURED ---------- */}
-        <section className="px-6 md:px-10 py-10 border-t border-paper/10">
+        <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
           <div className="flex items-center justify-between mb-8">
             <div className="eyebrow-acid">Today&apos;s pick · 今日精选</div>
             <div className="eyebrow">{featured.source}</div>
@@ -67,7 +67,7 @@ export default function Home() {
         </section>
 
         {/* ---------- SECONDARY ROW ---------- */}
-        <section className="px-6 md:px-10 py-10 border-t border-paper/10">
+        <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
           <div className="flex items-end justify-between mb-8">
             <div>
               <div className="eyebrow mb-2">Latest · 最新</div>
@@ -81,7 +81,7 @@ export default function Home() {
               By category <span aria-hidden>→</span>
             </Link>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-10">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-x-10 md:gap-x-16 gap-y-14 md:gap-y-20">
             {secondary.map((item) => (
               <NewsCard key={item.id} item={item} size="md" />
             ))}
@@ -96,7 +96,7 @@ export default function Home() {
             return (
               <section
                 key={cat.slug}
-                className="px-6 md:px-10 py-12 border-t border-paper/10"
+                className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10"
               >
                 <div className="grid grid-cols-12 gap-4 mb-8 items-end">
                   <div className="col-span-12 md:col-span-8">
@@ -124,7 +124,7 @@ export default function Home() {
                 </div>
 
                 {rivals.length > 0 ? (
-                  <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-x-8 md:gap-x-12 gap-y-12 md:gap-y-16">
                     {rivals.map((item) => (
                       <NewsCard
                         key={item.id}
@@ -153,7 +153,7 @@ export default function Home() {
                         {others.length} · sidebar
                       </div>
                     </div>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 md:gap-x-16 gap-y-12">
                       {others.map((item) => (
                         <NewsCard
                           key={item.id}
@@ -173,7 +173,7 @@ export default function Home() {
           return (
             <section
               key={cat.slug}
-              className="px-6 md:px-10 py-12 border-t border-paper/10"
+              className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10"
             >
               <div className="grid grid-cols-12 gap-4 mb-8 items-end">
                 <div className="col-span-12 md:col-span-8">
@@ -196,7 +196,7 @@ export default function Home() {
                   </Link>
                 </div>
               </div>
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-x-8 md:gap-x-12 gap-y-12 md:gap-y-16">
                 {items.map((item) => (
                   <NewsCard
                     key={item.id}

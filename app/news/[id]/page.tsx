@@ -139,7 +139,7 @@ export default function NewsDetailPage({
         </div>
       </article>
 
-      <section className="px-6 md:px-10 py-12 border-t border-paper/10">
+      <section className="px-6 md:px-10 py-16 md:py-20 border-t border-paper/10">
         <div className="flex items-end justify-between mb-8">
           <div>
             <div className="eyebrow mb-2">Related</div>
@@ -155,7 +155,7 @@ export default function NewsDetailPage({
             All {meta?.labelEn} →
           </Link>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 md:gap-x-16 gap-y-14 md:gap-y-20">
           {related.map((r) => (
             <NewsCard key={r.id} item={r} size="md" showCategory={false} />
           ))}
