@@ -2,7 +2,12 @@ import Link from "next/link";
 import { NewsCard } from "@/components/NewsCard";
 import { FeaturedCard } from "@/components/FeaturedCard";
 import { Footer } from "@/components/Footer";
-import { CATEGORIES, getAllNews, getNewsByCategory } from "@/lib/news";
+import {
+  CATEGORIES,
+  getAllNews,
+  getGamesSplit,
+  getNewsByCategory,
+} from "@/lib/news";
 
 export default function Home() {
   const all = getAllNews();
@@ -24,9 +29,9 @@ export default function Home() {
                 <span className="text-acid">每周简报</span>。
               </h1>
               <p className="mt-5 text-[14px] md:text-[15px] text-paper/70 max-w-xl leading-relaxed">
-                聚合来自 GamesIndustry、Game Developer、80 Level、Smashing Magazine、
-                It&apos;s Nice That、Eye on Design、NN/g 等专业来源的近期资讯,
-                只保留标题、摘要与原文链接。
+                游戏板块聚焦<span className="text-acid">三角洲行动</span>的竞品赛道 —
+                Tarkov、Arena Breakout、Gray Zone Warfare、ARC Raiders、Marathon、Warzone
+                等撤离与战术 FPS;设计板块覆盖视觉与交互的一线动态。
               </p>
             </div>
             <div className="col-span-12 md:col-span-3 md:col-start-10 flex flex-col justify-end gap-3">
@@ -84,6 +89,85 @@ export default function Home() {
 
         {/* ---------- CATEGORY SECTIONS ---------- */}
         {CATEGORIES.map((cat) => {
+          if (cat.slug === "games") {
+            const { competitors, others } = getGamesSplit(2);
+            const rivals = competitors.slice(0, 4);
+            return (
+              <section
+                key={cat.slug}
+                className="px-6 md:px-10 py-12 border-t border-paper/10"
+              >
+                <div className="grid grid-cols-12 gap-4 mb-8 items-end">
+                  <div className="col-span-12 md:col-span-8">
+                    <div className="eyebrow mb-2">
+                      Games · Delta Force rivals
+                    </div>
+                    <h2 className="serif text-3xl md:text-[40px] tracking-tightest">
+                      三角洲竞品追踪
+                      <span className="text-acid">.</span>
+                    </h2>
+                    <p className="mt-2 text-[13px] text-muted max-w-lg">
+                      撤离射击 & 战术 FPS 赛道 —— Tarkov、Arena Breakout、
+                      Gray Zone Warfare、ARC Raiders、Marathon、Warzone 等。
+                    </p>
+                  </div>
+                  <div className="col-span-12 md:col-span-3 md:col-start-10 md:text-right">
+                    <Link
+                      href="/games"
+                      data-hover
+                      className="inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.22em] hover:text-acid transition"
+                    >
+                      All rivals <span aria-hidden>→</span>
+                    </Link>
+                  </div>
+                </div>
+
+                {rivals.length > 0 ? (
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
+                    {rivals.map((item) => (
+                      <NewsCard
+                        key={item.id}
+                        item={item}
+                        size="sm"
+                        showCategory={false}
+                      />
+                    ))}
+                  </div>
+                ) : (
+                  <div className="text-[13px] text-muted">
+                    暂无竞品新动态 —— 等 Tarkov / Arena Breakout / Warzone 下一波更新。
+                  </div>
+                )}
+
+                {others.length > 0 && (
+                  <div className="mt-12 pt-8 border-t border-paper/10">
+                    <div className="flex items-end justify-between mb-5">
+                      <div>
+                        <div className="eyebrow mb-1">Also this week</div>
+                        <h3 className="serif text-lg md:text-xl text-paper/90">
+                          其他游戏动态
+                        </h3>
+                      </div>
+                      <div className="font-mono text-[11px] text-muted">
+                        {others.length} · sidebar
+                      </div>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+                      {others.map((item) => (
+                        <NewsCard
+                          key={item.id}
+                          item={item}
+                          size="sm"
+                          showCategory={false}
+                        />
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </section>
+            );
+          }
+
           const items = getNewsByCategory(cat.slug).slice(0, 4);
           return (
             <section

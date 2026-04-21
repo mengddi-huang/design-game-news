@@ -26,6 +26,7 @@ import {
   truncate,
   withinHours,
 } from "./lib/feeds.js";
+import { isCompetitor } from "../lib/competitors.js";
 
 type Mode = "full" | "link";
 
@@ -74,16 +75,29 @@ function rankPerCategory(
     byCat[c].sort(
       (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
     );
-    // Dedupe by sourceUrl
     const seen = new Set<string>();
-    byCat[c] = byCat[c]
-      .filter((x) => {
-        if (seen.has(x.sourceUrl)) return false;
-        seen.add(x.sourceUrl);
-        return true;
-      })
-      .slice(0, perCategory);
+    byCat[c] = byCat[c].filter((x) => {
+      if (seen.has(x.sourceUrl)) return false;
+      seen.add(x.sourceUrl);
+      return true;
+    });
   });
+
+  // Games: fill with Delta Force rivals first; if rivals fall short of the quota,
+  // top up with at most 1 "other games" item to keep it a sidebar.
+  const games = byCat.games;
+  const rivals = games.filter((it) => isCompetitor(it));
+  const others = games.filter((it) => !isCompetitor(it));
+  const rivalTake = Math.min(rivals.length, perCategory);
+  const otherTake =
+    rivalTake < perCategory ? Math.min(1, others.length) : 0;
+  byCat.games = [
+    ...rivals.slice(0, rivalTake),
+    ...others.slice(0, otherTake),
+  ];
+
+  byCat.visual = byCat.visual.slice(0, perCategory);
+  byCat.interaction = byCat.interaction.slice(0, perCategory);
 
   return byCat;
 }

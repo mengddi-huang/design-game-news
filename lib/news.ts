@@ -1,4 +1,5 @@
 import rawNews from "@/data/news.json";
+import { splitGames } from "@/lib/competitors";
 
 export type Category = "games" | "visual" | "interaction";
 
@@ -25,7 +26,7 @@ export const CATEGORIES: {
     slug: "games",
     label: "游戏",
     labelEn: "Games",
-    tagline: "Industry pulse from the front lines of interactive entertainment.",
+    tagline: "三角洲行动的竞品动态 · Extraction & tactical FPS rivals.",
   },
   {
     slug: "visual",
@@ -51,6 +52,17 @@ export function getAllNews(): NewsItem[] {
 
 export function getNewsByCategory(category: Category): NewsItem[] {
   return getAllNews().filter((n) => n.category === category);
+}
+
+/**
+ * Splits games news into Delta Force competitors vs everything else.
+ * Competitors keep full chronological order; others limited to the freshest N
+ * so the site emphasises the rival track and treats everything else as context.
+ */
+export function getGamesSplit(otherLimit = 3) {
+  const games = getNewsByCategory("games");
+  const { competitors, others } = splitGames(games);
+  return { competitors, others: others.slice(0, otherLimit) };
 }
 
 export function getCategoryMeta(slug: string) {
