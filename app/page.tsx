@@ -22,7 +22,8 @@ export default function Home() {
           <div className="grid grid-cols-12 gap-4 mb-10">
             <div className="col-span-12 md:col-span-8">
               <div className="eyebrow mb-4">
-                Issue 01 · Spring 2026 · 中 / EN
+                Issue 01 · Spring 2026 · Curated by{" "}
+                <span className="text-acid">谷博屿</span>
               </div>
               <h1 className="serif text-[40px] md:text-[64px] leading-[1.05] tracking-tightest text-paper max-w-[16ch]">
                 游戏与设计行业的

@@ -18,6 +18,7 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
+import { createRequire } from "node:module";
 import {
   CATEGORY_LABEL,
   Category,
@@ -28,7 +29,30 @@ import {
 } from "./lib/feeds.js";
 import { isCompetitor } from "../lib/competitors.js";
 
-type Mode = "full" | "link";
+type Mode = "full" | "link" | "joke";
+
+const requireJson = createRequire(import.meta.url);
+
+function pickDailyJoke(): string {
+  const jokes = requireJson("../data/jokes.json") as string[];
+  // Deterministic daily rotation: day-of-year modulo length.
+  const now = new Date();
+  const start = Date.UTC(now.getUTCFullYear(), 0, 0);
+  const dayOfYear = Math.floor((now.getTime() - start) / 86_400_000);
+  return jokes[dayOfYear % jokes.length];
+}
+
+function formatJokeMessage(siteUrl: string): string {
+  const today = new Date();
+  const stamp = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, "0")}-${String(today.getDate()).padStart(2, "0")}`;
+  return [
+    `<font color="comment">Dispatch · ${stamp} · 冷笑话</font>`,
+    "",
+    pickDailyJoke(),
+    "",
+    `[→ 今日资讯请戳这里](${siteUrl})`,
+  ].join("\n");
+}
 
 interface Args {
   hours: number;
@@ -265,6 +289,20 @@ async function main() {
     `[daily-digest] fetching RSS (window=${args.hours}h, per-category=${args.perCategory}, dry=${args.dry})`
   );
 
+  // Joke mode only needs the site URL; skip the (slow) RSS fetch entirely.
+  if (args.mode === "joke") {
+    const md = formatJokeMessage(args.siteUrl);
+    if (args.dry) {
+      console.log("\n--- PREVIEW ---\n");
+      console.log(md);
+      console.log("\n--- END PREVIEW ---\n");
+      return;
+    }
+    await postToWeChat(args.webhook, md);
+    console.log("[daily-digest] pushed joke to WeChat Work webhook");
+    return;
+  }
+
   const all = await fetchAll(12);
   console.log(`[daily-digest] total items parsed: ${all.length}`);
 
@@ -290,7 +328,7 @@ async function main() {
   }
 
   await postToWeChat(args.webhook, md);
-  console.log("[daily-digest] pushed to WeChat Work webhook");
+  console.log("[daily-digest] pushed digest to WeChat Work webhook");
 
   if (flat.length > 0) {
     await writeWebsiteData(flat);

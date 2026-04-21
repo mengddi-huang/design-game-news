@@ -4,6 +4,7 @@ import { Grain } from "@/components/Grain";
 import { SmoothScroll } from "@/components/SmoothScroll";
 import { Cursor } from "@/components/Cursor";
 import { Nav } from "@/components/Nav";
+import { Watermark } from "@/components/Watermark";
 
 export const metadata: Metadata = {
   title: "Dispatch — 游戏 × 设计行业资讯",
@@ -39,9 +40,10 @@ export default function RootLayout({
       <body className="bg-ink text-paper antialiased">
         <SmoothScroll />
         <Cursor />
+        <Watermark />
         <Grain />
         <Nav />
-        {children}
+        <div className="relative z-10">{children}</div>
       </body>
     </html>
   );

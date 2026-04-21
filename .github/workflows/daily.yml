@@ -79,4 +79,4 @@ jobs:
         env:
           WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
           DISPATCH_SITE_URL: ${{ steps.deploy.outputs.page_url }}
-        run: npx tsx scripts/daily-digest.ts --mode link
+        run: npx tsx scripts/daily-digest.ts --mode joke
