@@ -37,6 +37,16 @@ const JOKE_STATE_FILE = path.join(process.cwd(), "data", "joke-state.json");
 
 interface JokeState {
   recent: number[];
+  lastPushedDate?: string | null;
+}
+
+/** YYYY-MM-DD in Beijing (UTC+8), regardless of runner timezone. */
+function beijingDateString(): string {
+  const beijing = new Date(Date.now() + 8 * 3_600_000);
+  const y = beijing.getUTCFullYear();
+  const m = String(beijing.getUTCMonth() + 1).padStart(2, "0");
+  const d = String(beijing.getUTCDate()).padStart(2, "0");
+  return `${y}-${m}-${d}`;
 }
 
 async function readJokeState(): Promise<JokeState> {
@@ -45,7 +55,7 @@ async function readJokeState(): Promise<JokeState> {
     const parsed = JSON.parse(raw) as JokeState;
     if (Array.isArray(parsed.recent)) return parsed;
   } catch {}
-  return { recent: [] };
+  return { recent: [], lastPushedDate: null };
 }
 
 async function writeJokeState(state: JokeState, dry: boolean): Promise<void> {
@@ -56,14 +66,15 @@ async function writeJokeState(state: JokeState, dry: boolean): Promise<void> {
 /**
  * Pick a random joke index that wasn't used in the recent window.
  * Recent window size = floor(jokes.length * 0.8) so we cycle through almost
- * the entire pool before repeating anything, guaranteeing "每次都不一样" in
- * practice unless you push many dozens of times.
+ * the entire pool before repeating anything.
+ *
+ * Does NOT persist state — caller is responsible for saving only after a
+ * successful push, via `commitJokePicked`.
  */
-async function pickJoke(dry: boolean): Promise<string> {
+function chooseJoke(state: JokeState): { idx: number; text: string } {
   const jokes = requireJson("../data/jokes.json") as string[];
   if (jokes.length === 0) throw new Error("data/jokes.json is empty");
 
-  const state = await readJokeState();
   const windowSize = Math.max(1, Math.floor(jokes.length * 0.8));
   const banned = new Set(state.recent.slice(-windowSize));
 
@@ -71,12 +82,22 @@ async function pickJoke(dry: boolean): Promise<string> {
   for (let i = 0; i < jokes.length; i++) if (!banned.has(i)) candidates.push(i);
   const pool = candidates.length > 0 ? candidates : jokes.map((_, i) => i);
 
-  const pickedIdx = pool[Math.floor(Math.random() * pool.length)];
+  const idx = pool[Math.floor(Math.random() * pool.length)];
+  return { idx, text: jokes[idx] };
+}
 
-  const nextRecent = [...state.recent, pickedIdx].slice(-windowSize);
-  await writeJokeState({ recent: nextRecent }, dry);
-
-  return jokes[pickedIdx];
+async function commitJokePicked(
+  prev: JokeState,
+  pickedIdx: number,
+  dry: boolean
+): Promise<void> {
+  const jokes = requireJson("../data/jokes.json") as string[];
+  const windowSize = Math.max(1, Math.floor(jokes.length * 0.8));
+  const nextRecent = [...prev.recent, pickedIdx].slice(-windowSize);
+  await writeJokeState(
+    { recent: nextRecent, lastPushedDate: beijingDateString() },
+    dry
+  );
 }
 
 function formatJokeMessage(joke: string, siteUrl: string): string {
@@ -328,8 +349,20 @@ async function main() {
 
   // Joke mode only needs the site URL; skip the (slow) RSS fetch entirely.
   if (args.mode === "joke") {
-    const joke = await pickJoke(args.dry);
-    const md = formatJokeMessage(joke, args.siteUrl);
+    const state = await readJokeState();
+    const today = beijingDateString();
+
+    // Dedupe guard: if we already pushed today (e.g. second cron trigger fired
+    // after the first one already went through), exit silently.
+    if (!args.dry && state.lastPushedDate === today) {
+      console.log(
+        `[daily-digest] already pushed on ${today}, skipping (avoid double-push)`
+      );
+      return;
+    }
+
+    const { idx, text } = chooseJoke(state);
+    const md = formatJokeMessage(text, args.siteUrl);
     if (args.dry) {
       console.log("\n--- PREVIEW ---\n");
       console.log(md);
@@ -337,7 +370,12 @@ async function main() {
       return;
     }
     await postToWeChat(args.webhook, md);
-    console.log("[daily-digest] pushed joke to WeChat Work webhook");
+    // Only persist state AFTER the webhook call succeeded, so a failure
+    // doesn't burn a joke slot or block tomorrow's push.
+    await commitJokePicked(state, idx, args.dry);
+    console.log(
+      `[daily-digest] pushed joke #${idx} to WeChat Work webhook (marked ${today})`
+    );
     return;
   }
 
