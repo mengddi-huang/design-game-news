@@ -1,5 +1,15 @@
 [
   {
+    "id": "v-creative-review-times-radio-campaign-aims-to-offer-clari-0",
+    "category": "visual",
+    "title": "Times Radio campaign aims to offer clarity amidst the chaos",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/times-radio-campaign-clarity-amidst-the-chaos/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "The campaign highlights the endless noise of current affairs and how Times Radio can help listeners to navigate it",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/TimesRadio_StartsWithListening_FlyPosters-140x91.jpg"
+  },
+  {
     "id": "g-gamesindustry-biz-sanrio-establishes-in-house-gaming-brand-0",
     "category": "games",
     "title": "Sanrio establishes in-house gaming brand Sanrio Games",
@@ -582,6 +592,528 @@
       "Pragmata",
       "Single Player",
       "PC"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-microsoft-cuts-game-pass-pricing-and-rem-0",
+    "category": "games",
+    "title": "Microsoft cuts Game Pass pricing and removes Call of Duty as day-one launch title in response to \"a lot of feedback\"",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/microsoft-cuts-game-pass-pricing-and-removes-call-of-duty-as-day-one-launch-title-in-response-to-a-lot-of-feedback",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Xbox has confirmed it is reducing the price of its top-end Game Pass subscription and will no longer include new Call of Duty releases on day of release, following internal commun…",
+    "cover": "https://assetsio.gnwcdn.com/Xbox-Game-Pass_vnC85s1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Game Pass",
+      "Microsoft"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-this-is-not-a-sustainable-business-model-1",
+    "category": "games",
+    "title": "\"This is not a sustainable business model\" – Why Google Cloud's Jack Buser thinks AI can save the games industry",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/this-is-not-a-sustainable-business-model-why-google-clouds-jack-buser-thinks-ai-can-save-the-games-industry",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The economics of the games industry haven't made sense for some time now. Read more",
+    "cover": "https://assetsio.gnwcdn.com/falling-line-graph.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "AI",
+      "Google"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-union-takes-legal-action-against-build-a-2",
+    "category": "games",
+    "title": "Union takes legal action against Build a Rocket Boy over alleged data privacy violations",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/union-takes-legal-action-against-build-a-rocket-boy-over-alleged-data-privacy-violations",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The Independent Workers' Union of Great Britain (IWGB) has initiated legal action against Mindseye developer Build a Rocket Boy over alleged data privacy violations. Read more",
+    "cover": "https://assetsio.gnwcdn.com/iwgb-barb.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Union",
+      "unionisation",
+      "Build A Rocket Boy"
+    ]
+  },
+  {
+    "id": "g-game-developer-how-double-fine-balances-fun-with-potter-0",
+    "category": "games",
+    "title": "How Double Fine balances fun with pottery sculpting in Kiln",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/design/how-double-fine-balances-fun-with-pottery-sculpting-in-kiln",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Double Fine's Lauren Scott and Jared Mill break down how Kiln went from a game jam prototype to the studio's next game."
+  },
+  {
+    "id": "g-game-developer-windrose-surpasses-1m-sales-within-a-wee-1",
+    "category": "games",
+    "title": "Windrose surpasses 1M sales within a week",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/windrose-surpasses-1m-sales-within-a-week",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The pirate adventure game also accrued over 200,000 concurrent players."
+  },
+  {
+    "id": "g-game-developer-xbox-is-slashing-the-price-of-game-pass-2",
+    "category": "games",
+    "title": "Xbox is slashing the price of Game Pass",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/xbox-is-cutting-the-price-of-game-pass",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The service is also losing Call of Duty games at launch."
+  },
+  {
+    "id": "g-game-developer-sanrio-launches-self-publishing-label-sa-3",
+    "category": "games",
+    "title": "Sanrio launches self-publishing label Sanrio Games",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/sanrio-launches-self-publishing-label-sanrio-games",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The Hello Kitty maker wants to launch 'approximately 10 titles' over the next three years."
+  },
+  {
+    "id": "g-game-developer-union-workers-take-legal-action-against--4",
+    "category": "games",
+    "title": "Union workers take legal action against Build A Rocket Boy over alleged privacy violations",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/union-workers-take-legal-action-against-build-a-rocket-boy-over-alleged-privacy-violations",
+    "publishedAt": "2026-04-21",
+    "excerpt": "One union member said the studio's 'culture of secrecy and micromanaging' is one of the worst they've ever encountered."
+  },
+  {
+    "id": "g-80-level-interview-inside-the-tech-and-artistic-i-0",
+    "category": "games",
+    "title": "Interview: Inside the Tech and Artistic Inspirations of No Rest for the Wicked from Moon Studios",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/interview-inside-the-tech-and-artistic-inspirations-of-no-rest-for-the-wicked-from-moon-studios/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Moon Studios’ Gameplay Tech Lead and Art Directors break down how they modified Unity to craft No Rest for the Wicked and the artistic inspirations and process that led to its pai…",
+    "tags": [
+      "Interviews"
+    ]
+  },
+  {
+    "id": "g-80-level-making-fantasy-house-on-cliff-environmen-1",
+    "category": "games",
+    "title": "Making Fantasy House on Cliff Environment in 3D",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/making-fantasy-house-on-cliff-environment-in-3d/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Michael Khinevich shared his workflow behind the Hidden Cliff scene, inspired by No Rest for the Wicked, showing the texturing done for the stylized look, explaining how the cloud…",
+    "tags": [
+      "Environment Art",
+      "Interviews"
+    ]
+  },
+  {
+    "id": "g-80-level-how-a-small-team-of-developers-created-n-2",
+    "category": "games",
+    "title": "How a Small Team of Developers Created Net.Attack(), a Coding Roguelite Game",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/how-a-small-team-of-developers-created-net-attack-a-coding-roguelite-game/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "A team from ByteRockers' Games joined us to talk about Net.Attack(), explaining the mechanics of the game, what their influences were to create it, and discussing the development…",
+    "tags": [
+      "Interviews"
+    ]
+  },
+  {
+    "id": "g-80-level-xbox-lowers-game-pass-ultimate-price-cal-3",
+    "category": "games",
+    "title": "Xbox Lowers Game Pass Ultimate Price, Call of Duty Games Now Post-Launch",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/xbox-lowers-game-pass-ultimate-price-call-of-duty-games-now-post-launch/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Microsoft adjusts Game Pass pricing and release strategy by lowering Game Pass Ultimate and PC Game Pass Prices and removing Call of Duty games from launch-date additions into the…",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-blender-tool-to-create-localized-volumet-4",
+    "category": "games",
+    "title": "Blender Tool To Create Localized Volumetric Light & Fog",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/blender-tool-to-create-localized-volumetric-light-fog/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Volume Forge provides a faster, more practical way to create interesting atmospheric effects.",
+    "tags": [
+      "News",
+      "Marketplace"
+    ]
+  },
+  {
+    "id": "g-80-level-arc-raiders-players-are-choosing-coopera-5",
+    "category": "games",
+    "title": "ARC Raiders Players Are Choosing Cooperation over Conflict",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/arc-raiders-players-are-choosing-cooperation-over-conflict/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The unexpected peaceful collaboration in the brutal shooter became a peculiar phenomenon and a pleasant surprise for the developers.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-flippednormals-launches-its-new-website-6",
+    "category": "games",
+    "title": "FlippedNormals Launches Its New Website",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/flippednormals-launches-its-new-website/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "You still have time to download all your purchased files to your local drive before April 30th.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-polygon-netflix-s-devil-may-cry-anime-is-changin-0",
+    "category": "games",
+    "title": "Netflix's Devil May Cry anime is changing Vergil's lore in season 2",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/netflix-devil-may-cry-anime-adaptation-vergil-motivation-mundus/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Is Vergil in control of his mind in the upcoming chapter of Adi Shankar's adaptation?",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/season_2_trailer__devil_may_cry_n_00_00_58_07.JPG",
+    "tags": [
+      "Anime"
+    ]
+  },
+  {
+    "id": "g-polygon-xbox-game-pass-ultimate-s-price-was-too--1",
+    "category": "games",
+    "title": "Xbox Game Pass Ultimate's price was too expensive for too many fans",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/xbox-game-pass-ultimate-new-price-too-expensive/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Microsoft has slashed the price of Game Pass Ultimate, a rare concession to Xbox consumers faced with rising prices across the board.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24713736/xbox_games_showcase_2023.jpg",
+    "tags": [
+      "Xbox"
+    ]
+  },
+  {
+    "id": "g-polygon-why-doesn-t-xbox-game-pass-include-every-2",
+    "category": "games",
+    "title": "Why doesn't Xbox Game Pass include every Call of Duty game?",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/call-of-duty-all-games-xbox-game-pass/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Microsoft confirms new Call of Duty games won't be added to Xbox Game Pass day one. Can Game Pass at least get the old ones?",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/cod-infinite-warfare_sp_retribution-bridge_salter.jpg",
+    "tags": [
+      "Opinion",
+      "Call of Duty: Modern Warfare"
+    ]
+  },
+  {
+    "id": "g-polygon-sydney-sweeney-s-politics-will-orbit-her-3",
+    "category": "games",
+    "title": "Sydney Sweeney's politics will orbit her Gundam movie if it's faithful to anime",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/sydney-sweenys-gundam-needs-to-be-political-to-actually-be-faithful-to-the-anime/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The MAGA Barbie discourse cycle may come back for the Euphoria star, who is set to film a live-action Gundam movie for Netflix.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/sydney_sweeney.jpg",
+    "tags": [
+      "Analysis",
+      "Gundam"
+    ]
+  },
+  {
+    "id": "g-polygon-gta-5-fans-keep-starting-npc-riots-in-th-4",
+    "category": "games",
+    "title": "GTA 5 fans keep starting NPC riots in the silliest way possible",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/gta-5-snowball-riot-videos-youtube-tiktok-trend/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "A new GTA5 TikTok and YouTube trend tries to trigger chaos in Los Santos without the use of any traditional Grand Theft Auto weapons",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/gtariot.JPG",
+    "tags": [
+      "Gaming",
+      "Grand Theft Auto 5"
+    ]
+  },
+  {
+    "id": "g-polygon-you-don-t-need-to-be-a-dropout-fan-to-lo-5",
+    "category": "games",
+    "title": "You don't need to be a Dropout fan to love Izzy Roland's D(e)ad",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/dead-izzy-roland-film-kickstarter/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "This dark indie comedy features familiar Dropout TV stars Isabella Roland, Vic Michaelis, Zac Oyama, and Brennan Lee Mulligan.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/2-11.jpg",
+    "tags": [
+      "Movies"
+    ]
+  },
+  {
+    "id": "g-polygon-tides-of-tomorrow-review-the-best-anti-s-6",
+    "category": "games",
+    "title": "Tides of Tomorrow review: the best anti-social social game you've ever played",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/tides-of-tomorrow-review/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Tides of Tomorrow uses a social system unlike any you've seen before",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/tides-of-tomorrow-1.jpg",
+    "tags": [
+      "Gaming",
+      "Tides of Tomorrow"
+    ]
+  },
+  {
+    "id": "g-polygon-mtg-reality-fracture-leaks-hint-at-alter-7",
+    "category": "games",
+    "title": "MTG Reality Fracture leaks hint at alternate versions of Chandra and Snapcaster Mage",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/mtg-reality-fracture-leaks-chandra-blue-liliana-white/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "New Magic: The Gathering leaks seem like our first glimpse at color-shifted versions of beloved Planeswalkers and other cards.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/chandra-vs-ajani-1.jpg",
+    "tags": [
+      "Magic: The Gathering",
+      "Magic: The Gathering"
+    ]
+  },
+  {
+    "id": "g-polygon-diablo-4-lord-of-hatred-review-a-great-s-8",
+    "category": "games",
+    "title": "Diablo 4 Lord of Hatred review: a great story impedes the grind",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/diablo-4-lord-of-hatred-review/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Blizzard has made a big improvement over Vessel of Hatred but still can't find a way to bring campaign and endgame together",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/cover_art_no_logo.png",
+    "tags": [
+      "Reviews",
+      "Diablo IV: Lord of Hatred",
+      "Diablo 4"
+    ]
+  },
+  {
+    "id": "g-polygon-xbox-game-pass-gets-big-price-cut-and-lo-9",
+    "category": "games",
+    "title": "Xbox Game Pass gets big price cut and loses a major perk",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/xbox-game-pass-ultimate-price-cut-call-of-duty/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Microsoft drops price of Xbox Game Pass, and limits how new Call of Duty games roll out on the subscription service, under new Xbox CEO Asha Sharma.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25485830/Xbox_Game_Pass_Hero_Image_2024.jpg",
+    "tags": [
+      "News",
+      "Xbox Series X"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-arcade-roguelike-kaz-will-probably-break-0",
+    "category": "games",
+    "title": "Arcade roguelike KAZ will probably break my arrows keys, and yet here I am wanting to play another round",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/arcade-roguelike-kaz-will-probably-break-my-arrows-keys-and-yet-here-i-am-wanting-to-play-another-round",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The less buttons I have to press a game, the better. I am not doing a bit here, no japes to be found, a refined, paired down control scheme is like a cherub's smile to me. KAZ, th…",
+    "cover": "https://assetsio.gnwcdn.com/kaz_hUsiKfo.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "KAZ",
+      "Roguelike",
+      "Arcade"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-casualties-unknown-is-noita-for-furries--1",
+    "category": "games",
+    "title": "Casualties: Unknown is Noita for furries, and oh so deliciously miserable",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/casualties-unknown-is-noita-for-furries-and-oh-so-deliciously-miserable",
+    "publishedAt": "2026-04-21",
+    "excerpt": "\"This game contains depictions of violence, self harm, and general misery,\" opens Casualties: Unknown, a short but still considerate content warning for the survival game ahead. B…",
+    "cover": "https://assetsio.gnwcdn.com/casualties-unknown.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Survival & Crafting",
+      "Indie",
+      "Casualties: Unknown"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-take-a-flight-to-the-uncanny-valley-with-2",
+    "category": "games",
+    "title": "Take a flight to the uncanny valley with Aion 2, the MMO all about verticality that's going global this year",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/take-a-flight-to-the-uncanny-valley-with-aion-2-the-mmo-all-about-verticality-thats-going-global-this-year",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The concept of an MMO getting a sequel is always a strange one to me, but nonetheless Aion 2 is here. Or at least it will be, sometime this year, as NCSoft have confirmed that \"th…",
+    "cover": "https://assetsio.gnwcdn.com/aion-2_OJOXhHK.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "PC",
+      "MMORPG",
+      "Action Adventure"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-mythology-by-its-nature-is-told-and-reto-3",
+    "category": "games",
+    "title": "\"Mythology, by its nature, is told and retold\": Hades 2 dev on changing its controversial ending",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/mythology-by-its-nature-is-told-and-retold-hades-2-dev-on-changing-its-controversial-ending",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Last year, Hades 2 left early access, and Mark liked it! He did note, however, that its ending was potentially going to end up polarising, and with the accuracy of The Fates, this…",
+    "cover": "https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Supergiant Games",
+      "Single Player",
+      "Bird view / Isometric"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-endless-legend-2-s-answer-to-the-common--4",
+    "category": "games",
+    "title": "Endless Legend 2's answer to the common 4X problem of \"goldfish\" AI is a cunning system of badges, from Pleasant to Bully",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/endless-legend-2s-answer-to-the-common-4x-problem-of-goldfish-ai-is-a-cunning-system-of-badges-from-pleasant-to-bully",
+    "publishedAt": "2026-04-21",
+    "excerpt": "The least involving part of any 4X strategy is very often diplomacy with AI civilizations. Even Endless Legend 2, a game with a faction of coral people who can make other people l…",
+    "cover": "https://assetsio.gnwcdn.com/endlesslegend2badges.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Single Player",
+      "Bird view / Isometric",
+      "Strategy"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-enshrouded-approaches-the-roblox-event-h-5",
+    "category": "games",
+    "title": "Enshrouded approaches the Roblox event horizon with the addition of Adventure Sharing in its latest update",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/enshrouded-approaches-the-roblox-event-horizon-with-the-addition-of-adventure-sharing-in-its-latest-update",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Roblox is the carcinisation of video games. It is an endpoint that, despite many varying diverging paths, many games ultimately end up at, even if they look noticeably different.…",
+    "cover": "https://assetsio.gnwcdn.com/enshrouded-update_5z3woWW.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Keen Games",
+      "Exploration",
+      "Realism"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-call-of-duty-won-t-hit-xbox-game-pass-at-6",
+    "category": "games",
+    "title": "Call of Duty won't hit Xbox Game Pass at launch going forwards, as Microsoft's subscription service gets a price cut",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/call-of-duty-wont-hit-xbox-game-pass-at-launch-going-forwards-as-microsofts-subscription-service-gets-a-price-cut",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Microsoft have announced some changes to Xbox Game Pass. As of today, its Ultimate and PC Game Pass tiers are having their prices slashed, but neither will get Call of Duty games…",
+    "cover": "https://assetsio.gnwcdn.com/call-of-duty-black-ops-7-gravemaker-killstreak-backlash-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Xbox Series X/S",
+      "Square Enix",
+      "Xbox 360"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-unionised-build-a-rocket-boy-staff-take--7",
+    "category": "games",
+    "title": "Unionised Build a Rocket Boy staff take legal action against MindsEye studio, accusing management of breaking the law with \"invasive\" surveillance software",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-sued-by-unionised-staff-who-accuse-management-of-breaking-the-law-with-invasive-surveillance-software",
+    "publishedAt": "2026-04-21",
+    "excerpt": "A group of unionised staff at MindsEye developers Build a Rocket Boy are taking legal action against the studio, claming that management's installation of surveillance software on…",
+    "cover": "https://assetsio.gnwcdn.com/build-a--rocket-boy-staff-legal-action-surveilance-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Single Player",
+      "Build A Rocket Boy",
+      "Action Adventure"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-not-all-machines-are-twisted-mechano-soc-8",
+    "category": "games",
+    "title": "\"Not all machines are twisted mechano-socialists\": Helldivers 2's latest warbond brings back a mech suit from the original game",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/not-all-machines-are-twisted-mechano-socialists-helldivers-2s-latest-warbond-brings-back-a-mech-suit-from-the-original-game",
+    "publishedAt": "2026-04-21",
+    "excerpt": "Helldivers 2's latest warbond is set to deliver two new exosuit stratagems, bringing a bit more variety to the robotic getups you can summon to help fight Super Earth's enemy of t…",
+    "cover": "https://assetsio.gnwcdn.com/helldivers-2-exo-experts-warbond-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Science Fiction",
+      "Helldivers 2",
+      "Single Player"
+    ]
+  },
+  {
+    "id": "v-designboom-a-hut-of-spruce-bark-by-ulf-mejergren-gr-0",
+    "category": "visual",
+    "title": "a hut of spruce bark by ulf mejergren grows around a living tree in sweden",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/art/spruce-bark-hut-ulf-mejergren-living-tree-sweden/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "a spruce tree becomes a shelter, wrapped in loose bark collected from trees damaged by bark beetles. The post a hut of spruce bark by ulf mejergren grows around a living tree in s…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/ulf-mejergren-architects-uma-spruce-bark-hut-designboom-700-500x400-22b08q85r986.jpg",
+    "tags": [
+      "art",
+      "readers",
+      "architecture in sweden"
+    ]
+  },
+  {
+    "id": "v-designboom-brabus-x-dab-motors-electric-motorcycle--1",
+    "category": "visual",
+    "title": "BRABUS x DAB motors’ electric motorcycle series goes bold in playful color scheme",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/technology/brabus-dab-motors-electric-motorcycle-series-bold-playful-color-scheme/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "BRABUS and DAB motors’ three-bike electric motorcycle series reinterpret the DAB 1α electric platform. The post BRABUS x DAB motors’ electric motorcycle series goes bold in playfu…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/brabus-dab-motors-three-electric-motorcycle-series-playful-color-scheme-designboom-700-500x400-22b08q85r182.jpg",
+    "tags": [
+      "technology",
+      "DAB Motors",
+      "electric motorcycle and scooter design"
+    ]
+  },
+  {
+    "id": "v-designboom-sara-ricciardi-releases-the-chemistry-of-2",
+    "category": "visual",
+    "title": "sara ricciardi releases the chemistry of happiness inside milan’s pinacoteca di brera",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/sara-ricciardi-chemistry-happiness-milan-pinacoteca-brera-design-week-2026-interview/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "the inflatable environment pulses with light, color, and rhythm, translating positivity into a fully embodied spatial experience. The post sara ricciardi releases the chemistry of…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/sara-ricciardi-chemistry-happiness-milan-pinacoteca-di-brera-design-week-2026-designboom-700.jpg",
+    "tags": [
+      "design",
+      "inflatable structures",
+      "interactive installation"
+    ]
+  },
+  {
+    "id": "v-designboom-safdie-architects-plans-cherokee-heritag-3",
+    "category": "visual",
+    "title": "safdie architects plans cherokee heritage center as a cluster of rammed earth blocks",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/architecture/safdie-architects-cherokee-heritage-center-clustered-blocks-rammed-earth-oklahoma/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "oklahoma's cherokee heritage center will be a rammed earth campus where sunlight enters through triangular skylights. The post safdie architects plans cherokee heritage center as…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/safdie-architects-cherokee-heritage-center-designboom-700-500x400-22b08q85r855.jpg",
+    "tags": [
+      "architecture",
+      "architecture in the US",
+      "moshe safdie"
+    ]
+  },
+  {
+    "id": "v-designboom-iris-ceramica-group-merges-pop-energy-an-4",
+    "category": "visual",
+    "title": "iris ceramica group merges pop energy and haute couture with ceramics",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/iris-ceramica-group-pop-energy-haute-couture-ceramics-milan-design-week-2026/",
+    "publishedAt": "2026-04-21",
+    "excerpt": "iris ceramica group and diesel living partner up for a bold showcase during milan design week 2026, blending the worlds of design and fashion. The post iris ceramica group merges…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/iris-ceramica-milan-design-week-designboom-700-500x400-22b08q85r207.jpg",
+    "tags": [
+      "design",
+      "ceramic art and design",
+      "iris ceramica group"
     ]
   },
   {
