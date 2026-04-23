@@ -1,5 +1,77 @@
 [
   {
+    "id": "g-polygon-d-d-s-new-actual-play-show-borrows-a-cle-0",
+    "category": "games",
+    "title": "D&D’s new actual play show borrows a clever horror mechanic from Dark Dice",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/dnd-dungeon-masters-actual-play-ravenloft-rest-rules-dark-dice/",
+    "publishedAt": "2026-04-23",
+    "excerpt": "Dungeon Masters' DM Jasmine Bhullar is making long rest harder for her players, but it's nothing compared to the house rules in Dark Dice.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/dark-dice-header-featuring-balmer-jeff-goldblum.jpg",
+    "tags": [
+      "Actual Play"
+    ]
+  },
+  {
+    "id": "g-polygon-invincible-season-5-plot-and-likely-rele-1",
+    "category": "games",
+    "title": "Invincible season 5 plot and likely release date explained",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/invincible-season-5-release-date-year-plot/",
+    "publishedAt": "2026-04-23",
+    "excerpt": "Season 5 of Invincible is likely to premiere in early 2027 and it will see the return of Dinosaurus and a conflict between Allen and Mark.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/invi_s4_00122100_still163_3000.jpg",
+    "tags": [
+      "Entertainment",
+      "Invincible"
+    ]
+  },
+  {
+    "id": "v-designboom-painting-unfolds-across-earth-canvas-and-0",
+    "category": "visual",
+    "title": "painting unfolds across earth, canvas, and space in katharina grosse’s london exhibition",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/art/painting-earth-canvas-space-katharina-grosse-exhibition-i-set-out-i-walked-fast/",
+    "publishedAt": "2026-04-23",
+    "excerpt": "i set out, i walked fast exhibition brings together new works, archival material, and a large in-situ installation by katharina grosse. The post painting unfolds across earth, can…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/i-set-out-i-walked-fast-exhibition-archival-material-in-situ-installation-katharina-grosse-designboom-700-500x400-22b08q85r682.jpg",
+    "tags": [
+      "art",
+      "exhibition design",
+      "interactive installation"
+    ]
+  },
+  {
+    "id": "v-creative-review-new-st-paul-s-cathedral-identity-blends--0",
+    "category": "visual",
+    "title": "New St Paul’s Cathedral identity blends past and present",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/st-pauls-cathedral-new-identity-pentagram-design/",
+    "publishedAt": "2026-04-23",
+    "excerpt": "Pentagram’s rebrand of the famous London landmark combines historic references with a modern design approach, reflecting its evolving role in public life",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/St_Pauls_Cathedral_New_Branding-140x91.jpg"
+  },
+  {
+    "id": "v-creative-review-a-brief-history-of-advertising-case-stud-1",
+    "category": "visual",
+    "title": "A brief history of advertising case studies",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/brief-history-advertising-case-studies-ben-kay/",
+    "publishedAt": "2026-04-23",
+    "excerpt": "It’s easy to hate these time-consuming, often hyperbolic showcases. Yet, says Ben Kay, in a complicated advertising and media landscape they can offer vital insights",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Spotify-Spreadbeats-Case-Study-140x91.png"
+  },
+  {
+    "id": "v-creative-review-new-campaign-from-casper-aims-to-help-yo-2",
+    "category": "visual",
+    "title": "New campaign from Casper aims to help you relax",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/new-campaign-from-casper-aims-to-help-you-relax/",
+    "publishedAt": "2026-04-23",
+    "excerpt": "Created by Orchard and directed by Jeff Low, three new spots for US sleep brand Casper show how its mattresses serve as the perfect escape from 'daymares'",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Birtday-Boy-1-copy-140x91.jpg"
+  },
+  {
     "id": "v-creative-review-times-radio-campaign-aims-to-offer-clari-0",
     "category": "visual",
     "title": "Times Radio campaign aims to offer clarity amidst the chaos",
@@ -8,6 +80,737 @@
     "publishedAt": "2026-04-22",
     "excerpt": "The campaign highlights the endless noise of current affairs and how Times Radio can help listeners to navigate it",
     "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/TimesRadio_StartsWithListening_FlyPosters-140x91.jpg"
+  },
+  {
+    "id": "g-gamesindustry-biz-gamers-sue-nintendo-over-tariff-refunds-0",
+    "category": "games",
+    "title": "Gamers sue Nintendo over tariff refunds",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/gamers-sue-nintendo-over-tariff-refunds",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Two Nintendo customers have filed a class-action lawsuit against Nintendo, alleging the firm intends to benefit by both raising prices for consumers whilst seeking compensation fr…",
+    "cover": "https://assetsio.gnwcdn.com/Nintendo_Logo_Nq9Ztsr.png?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Legal",
+      "Nintendo",
+      "Law"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-dead-by-daylight-studio-behaviour-intera-1",
+    "category": "games",
+    "title": "Dead by Daylight studio Behaviour Interactive confirms redundancies",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/dead-by-daylight-studio-behaviour-interactive-confirms-redundancies",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Dead by Daylight developer Behaviour Interactive has confirmed a new round of redundancies. Read more",
+    "cover": "https://assetsio.gnwcdn.com/behaviour-uk-south.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Redundancies",
+      "Behaviour Interactive"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-us-hardware-sales-rose-69-in-march-2026--2",
+    "category": "games",
+    "title": "US hardware sales rose 69% in March 2026 following strong Switch 2 performance | US Monthly Charts",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/us-hardware-sales-rose-69-in-march-2026-following-strong-switch-2-performance-us-monthly-charts",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Total US consumer spending on video games jumped 12% to $5.3 billion in March 2026, while first quarter spending rose by 5% year-on-year to $14.6 billion. Read more",
+    "cover": "https://assetsio.gnwcdn.com/switch2_QBzY3Fc.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Retail",
+      "Circana",
+      "Sales"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-gamesindustry-biz-will-once-again-head-t-3",
+    "category": "games",
+    "title": "GamesIndustry.biz will once again head to Brazil to report on Gamescom Latam",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/gamesindustrybiz-will-once-again-head-to-brazil-to-report-on-gamescom-latam",
+    "publishedAt": "2026-04-22",
+    "excerpt": "GamesIndustry.biz will be boarding the long flight to Brazil next week to cover the happenings at Gamescom Latam in São Paulo, which is running from April 29 to May 3. Read more",
+    "cover": "https://assetsio.gnwcdn.com/Abragames-booth-Gamecom-Latam.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Events",
+      "Gamescom Latam 2026"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-ubisoft-reportedly-cancels-life-simulato-4",
+    "category": "games",
+    "title": "Ubisoft reportedly cancels life-simulator project Alterra",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/ubisoft-reportedly-cancels-life-simulator-project-alterra",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Ubisoft has reportedly cancelled its life simulator project, codenamed Alterra. Read more",
+    "cover": "https://assetsio.gnwcdn.com/ubisoft-logo-black.png?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Development",
+      "Ubisoft",
+      "canceled games"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-not-surprising-at-all-analysts-see-xbox--5",
+    "category": "games",
+    "title": "\"Not surprising at all\" – analysts see Xbox Game Pass price cut as inevitable shift that will drive subscription growth in 2026",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/not-surprising-at-all-analysts-see-xbox-game-pass-price-cut-as-inevitable-shift-that-will-drive-subscription-growth-in-2026",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Analysts tell GamesIndustry.biz that Microsoft's decision to cut the price of Game Pass and remove Call of Duty as a day-one offering was an expected response to the latter's limi…",
+    "cover": "https://assetsio.gnwcdn.com/xbox-series-x-billy-freeman-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Game Pass",
+      "Microsoft"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-koei-tecmo-revises-fy26-results-followin-6",
+    "category": "games",
+    "title": "Koei Tecmo revises FY26 results following success of Pokémon Pokopia and Nioh 3",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/koei-tecmo-revises-fy26-results-following-success-of-pokemon-pokopia-and-nioh-3",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Koei Tecmo has updated its financial forecast for the fiscal year ending March 2026, citing strong fourth quarter performance from titles such as Pokémon Pokopia and Nioh 3. Read…",
+    "cover": "https://assetsio.gnwcdn.com/Pokopia.webp?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Financials",
+      "Koei Tecmo",
+      "Game Freak"
+    ]
+  },
+  {
+    "id": "g-gamesindustry-biz-firstpoint-vc-launches-with-50m-fund-to--7",
+    "category": "games",
+    "title": "Firstpoint VC launches with €50m fund to invest in AI-driven games and entertainment startups",
+    "source": "GamesIndustry.biz",
+    "sourceUrl": "https://www.gamesindustry.biz/firstpoint-vc-launches-with-50m-fund-to-invest-in-ai-driven-games-and-entertainment-startups",
+    "publishedAt": "2026-04-22",
+    "excerpt": "New venture capital firm Firstpoint VC has launched with a €50 million fund to invest in AI-driven gaming and entertainment startups. Read more",
+    "cover": "https://assetsio.gnwcdn.com/1-Firstpoint-VC_GP-Team.jpeg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Development",
+      "funding",
+      "AI"
+    ]
+  },
+  {
+    "id": "g-game-developer-nintendo-is-being-sued-by-customers-seek-0",
+    "category": "games",
+    "title": "Nintendo is being sued by customers seeking tariff refunds",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/nintendo-is-being-sued-by-customers-seeking-tariff-refunds",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Two consumers based in the United States claim the Switch maker has unjustly benefited from tariffs imposed by the Trump administration."
+  },
+  {
+    "id": "g-game-developer-dead-by-daylight-studio-behaviour-intera-1",
+    "category": "games",
+    "title": "Dead by Daylight studio Behaviour Interactive confirms layoffs",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/dead-by-daylight-studio-behaviour-interactive-confirms-layoffs",
+    "publishedAt": "2026-04-22",
+    "excerpt": "The company indicated members of its external development team have been let go."
+  },
+  {
+    "id": "g-game-developer-report-ubisoft-cancels-social-sim-game-a-2",
+    "category": "games",
+    "title": "Report: Ubisoft cancels social-sim game Alterra",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/business/report-ubisoft-cancels-social-sim-game-alterra",
+    "publishedAt": "2026-04-22",
+    "excerpt": "The Animal Crossing-inspired game was reportedly in development for nearly three years at Ubisoft Montreal."
+  },
+  {
+    "id": "g-game-developer-a-scope-document-is-not-your-plan-laying-3",
+    "category": "games",
+    "title": "'A scope document is not your plan:' Laying the groundwork for indie success",
+    "source": "Game Developer",
+    "sourceUrl": "https://www.gamedeveloper.com/production/-a-scope-document-is-not-your-plan-laying-the-groundwork-for-indie-success",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Blossom Arcade founder Sophie Smart explains how the best laid plans can drive indie studios forward."
+  },
+  {
+    "id": "g-80-level-rhythm-towers-is-a-musical-rhythm-based--0",
+    "category": "games",
+    "title": "Rhythm Towers is a Musical Rhythm-Based Tower Defense Game",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/rhythm-towers-is-a-musical-rhythm-based-tower-defense-game/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "If you are a music lover, you will probably enjoy this game! It's like PaRappa the Rapper on an alien planet.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-vampire-survivors-creators-are-working-o-1",
+    "category": "games",
+    "title": "Vampire Survivors Creators Are Working on 15+ Projects Including Games, DLC, and More",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/vampire-survivors-creators-are-working-on-15-projects-including-games-dlc-and-more/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "After redefining the “bullet heaven” genre with Vampire Survivors, poncle is scaling up with a broad slate of spin-offs, collaborations, and new IP.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-how-a-small-indie-team-is-building-a-ful-2",
+    "category": "games",
+    "title": "How a Small Indie Team Is Building a Fully Simulated Sandbox RPG in Valorborn",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/how-a-small-indie-team-is-building-a-fully-simulated-sandbox-rpg-in-valorborn/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "The developers of Valorborn break down their systemic approach to open-world design, AI simulation, and building a fully interactive sandbox RPG in Unreal Engine 5.",
+    "tags": [
+      "Interviews"
+    ]
+  },
+  {
+    "id": "g-80-level-arc-games-talks-independence-live-servic-3",
+    "category": "games",
+    "title": "Arc Games Talks Independence, Live Service, and Long-Term Player Trust",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/arc-games-talks-independence-live-service-and-long-term-player-trust/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Following its 2025 management buyout, Arc Games discusses its evolving publishing strategy, balancing live services with premium releases, new leadership changes, and supporting g…",
+    "tags": [
+      "Interviews"
+    ]
+  },
+  {
+    "id": "g-80-level-procedural-traffic-cone-generator-in-ble-4",
+    "category": "games",
+    "title": "Procedural Traffic Cone Generator In Blender",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/procedural-traffic-cone-generator-in-blender/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "It's totally free.",
+    "tags": [
+      "News",
+      "Marketplace"
+    ]
+  },
+  {
+    "id": "g-80-level-how-to-design-a-startfighter-influenced--5",
+    "category": "games",
+    "title": "How to Design a Startfighter Influenced by a Hunting Owl Using Blender",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/how-to-design-a-startfighter-influenced-by-a-hunting-owl-using-blender/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Jannis Mayr discussed the workflow behind the Night Owl - Close Orbit Dominance Fighter, explaining how he modeled the ship following the facial structure of an owl, and talking a…",
+    "tags": [
+      "Interviews",
+      "Props"
+    ]
+  },
+  {
+    "id": "g-80-level-co-founder-of-cococucumber-on-creating-t-6",
+    "category": "games",
+    "title": "Co-Founder of Cococucumber on Creating the Game Echo Generation 2",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/co-founder-of-cococucumber-on-creating-the-game-echo-generation-2/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Vanessa Chia, Co-Founder at Cococucumber, talked about Echo Generation 2, explaining the story and style of the game, how it's different from the original, how the chapters are fo…",
+    "tags": [
+      "Interviews"
+    ]
+  },
+  {
+    "id": "g-80-level-add-dynamic-text-animations-to-your-unit-7",
+    "category": "games",
+    "title": "Add Dynamic Text Animations to Your Unity Projects with This Tool",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/add-dynamic-text-animations-to-your-unity-projects-with-this-tool/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Text Animator for Unity by Febucci features over 15 effects and seamlessly works with Unity UI Toolkit and TextMeshPro.",
+    "tags": [
+      "News",
+      "Marketplace"
+    ]
+  },
+  {
+    "id": "g-80-level-godot-4-7-s-final-development-snapshot-a-8",
+    "category": "games",
+    "title": "Godot 4.7's Final Development Snapshot Arrived",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/godot-4-7-s-final-development-snapshot-arrived/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Asset store overhaul, rectangular area light sources, inline text shader previews, and more in Godot 4.7 dev 5.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-80-level-take-a-look-behind-the-scenes-of-disney--9",
+    "category": "games",
+    "title": "Take a Look Behind the Scenes of Disney's Songs in Sign Language",
+    "source": "80 Level",
+    "sourceUrl": "https://80.lv/articles/take-a-look-behind-the-scenes-of-disney-s-songs-in-sign-language/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Animators used data from the original sources.",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "g-polygon-elden-ring-movie-set-leaks-confirm-new-d-2",
+    "category": "games",
+    "title": "Elden Ring movie set leaks confirm new details of Alex Garland's film",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/elden-ring-movie-set-leaks-cast-characters/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Leaks from Alex Garland's Elden Ring movie show off Marika, Dung Eater, and more will appear in the live-action video game adaptation coming in 2028.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/elden-ring-artwork.jpeg",
+    "tags": [
+      "Movies",
+      "Elden Ring",
+      "Elden Ring"
+    ]
+  },
+  {
+    "id": "g-polygon-fallout-new-vegas-dev-says-bethesda-slam-3",
+    "category": "games",
+    "title": "Fallout: New Vegas dev says Bethesda slammed the game in a PowerPoint",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/fallout-new-vegas-chris-avellone-powerpoint-bethesda-wrong-with-rpg/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Former Obsidian Entertainment developer Chris Avellone alleges that Bethesda was not a big fan of Fallout: New Vegas or its DLC, Dead Money.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22372015/apps.6263.66091604408099736.4cc75ea1_c6a0_40ec_b7f9_7fdb8da581b2__1_.jpeg",
+    "tags": [
+      "News",
+      "Fallout",
+      "Fallout: New Vegas"
+    ]
+  },
+  {
+    "id": "g-polygon-first-trailer-for-dc-s-r-rated-clayface--4",
+    "category": "games",
+    "title": "First trailer for DC's R-rated Clayface horror movie released",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/clayface-movie-trailer-dcu/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "James Gunn's DCU gets a big dose of horror with Clayface, a new movie based on Batman's shapeshifting villain. Watch the first trailer for Clayface.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/clayface-_-official-teaser-0-50-screenshot-1.jpeg",
+    "tags": [
+      "Movies",
+      "Clayface"
+    ]
+  },
+  {
+    "id": "g-polygon-studio-ghibli-s-next-film-arrives-in-jul-5",
+    "category": "games",
+    "title": "Studio Ghibli's next film arrives in July, as a Ghibli Park exclusive",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/studio-ghibli-park-new-short-film-night-valley-witches/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Night in the Valley of Witches, an animated short set in Ghibli Park, was co-directed by Goro Miyazaki, Hayao Miyazaki's son. It will debut July 8.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/20008693/kiki_delivery_disneyscreencaps.com_11580.jpg",
+    "tags": [
+      "Entertainment"
+    ]
+  },
+  {
+    "id": "g-polygon-how-to-rebuild-strixhaven-s-prismari-art-6",
+    "category": "games",
+    "title": "How to rebuild Strixhaven’s Prismari Artistry Commander deck for Vivi Ornitier",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/vivi-ornitier-commander-decklist-strixhaven-prismari-artistry/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Though the strategies differ slightly, Secrets of Strixhaven's Prismari Artistry precon serves as a great base for a Vivi Ornitier Commander deck.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/vivi-fire.jpg",
+    "tags": [
+      "Magic: The Gathering",
+      "Magic: The Gathering",
+      "Final Fantasy 9"
+    ]
+  },
+  {
+    "id": "g-polygon-ffxiv-2026-fan-fest-keynote-start-time-a-7",
+    "category": "games",
+    "title": "FFXIV 2026 Fan Fest keynote: Start time and where to watch",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/ffxiv-2026-fan-fest-keynote-when-date-time/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Square Enix's first FFXIV Fan Fest of 2026 will reveal what's next for the Final Fantasy franchise. Here's how to watch the Fan Fest keynote.",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/ffxiv-fan-fest-keynote-2026.jpg",
+    "tags": [
+      "Gaming",
+      "Final Fantasy XIV: Dawntrail"
+    ]
+  },
+  {
+    "id": "g-polygon-nintendo-will-stick-to-peach-s-mario-gal-8",
+    "category": "games",
+    "title": "Nintendo will stick to Peach's Mario Galaxy Movie backstory in future games",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/peach-backstory-super-mario-galaxy-movie-games-miyamoto/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "The Super Mario Galaxy Movie revealed new details about Princess Peach's family, and Nintendo's Shigeru Miyamoto wants that to persist in future games",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/Princess-Peach-and-Toads-.jpg",
+    "tags": [
+      "Cozy Gaming",
+      "The Super Mario Galaxy Movie",
+      "Super Mario Bros."
+    ]
+  },
+  {
+    "id": "g-polygon-pragmata-takes-a-risk-that-other-games-n-9",
+    "category": "games",
+    "title": "Pragmata takes a risk that other games need to follow",
+    "source": "Polygon",
+    "sourceUrl": "https://www.polygon.com/pragmata-objective-markers-map-guidance/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Pragmata bucks the trend of games refusing to let you make mistakes and is so much more enjoyable for it",
+    "cover": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/pragmata-objective-markers-map-guidance.jpg",
+    "tags": [
+      "Gaming",
+      "Pragmata"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-ecco-the-dolphin-complete-revealed-a-mix-0",
+    "category": "games",
+    "title": "Ecco the Dolphin: Complete revealed, a mixture of remaster and brand new game spanning every Ecco game from the 8 to 16-bit era",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/ecco-the-dolphin-complete-revealed-a-mixture-of-remaster-and-brand-new-game-spanning-every-ecco-game-from-8-to-16-bit-era",
+    "publishedAt": "2026-04-22",
+    "excerpt": "It's happening dot gif - we are getting more Ecco the Dolphin. As teased in January, series creator Ed Annunziata and development studio A&R Atelier are working on a remastered co…",
+    "cover": "https://assetsio.gnwcdn.com/ecco_bqWdmDM.jpg?width=690&quality=85&format=jpg&auto=webp"
+  },
+  {
+    "id": "g-rock-paper-shotgun-a-little-bit-black-white-a-little-bit-fa-1",
+    "category": "games",
+    "title": "A little bit Black & White, a little bit Fable, Molyneux's citybuilder Masters Of Albion has the potential to break free of its influences – but it has a lot of work to do",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/a-little-bit-black-white-a-little-bit-fable-molyneuxs-citybuilder-masters-of-albion-has-the-potential-to-break-free-of-its-influences-but-it-has-a-lot-of-work-to-do",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Every time the ghoul smacks his hands against my crypt, a red light pulses and sends cracks spiderwebbing across my screen. If I don't beat down the undead creature soon, he'll br…",
+    "cover": "https://assetsio.gnwcdn.com/masters-of-albion-screenshot_0011_Layer-8.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "22cans",
+      "PC",
+      "Simulation"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-how-many-pampered-hikers-can-you-freeze--2",
+    "category": "games",
+    "title": "How many pampered hikers can you freeze in alpine tycoon game Above the Snow?",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/how-many-pampered-hikers-can-you-freeze-in-alpine-tycoon-game-above-the-snow",
+    "publishedAt": "2026-04-22",
+    "excerpt": "I recently spent time in a mountain youth hostel, which offered a choice of hikes up nearby peaks together with the regulation climber's breakfast of imploded sausage plus violent…",
+    "cover": "https://assetsio.gnwcdn.com/abovethesnow.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Above the Snow",
+      "Management",
+      "PC"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-after-an-hour-in-the-beta-the-expanse-os-3",
+    "category": "games",
+    "title": "After an hour in the beta, The Expanse: Osiris Reborn is both a limp Mass Effect and a leaden interpretation of a very good TV show",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/after-an-hour-in-the-beta-the-expanse-osiris-reborn-is-both-a-limp-mass-effect-and-a-leaden-interpretation-of-a-very-good-tv-show",
+    "publishedAt": "2026-04-22",
+    "excerpt": "It's early days for The Expanse: Osiris Reborn, but I can say confidently after an hour with a beta version that I don't want to have sex with anybody in it. The TV show (I've not…",
+    "cover": "https://assetsio.gnwcdn.com/20260416154719_1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Shooter",
+      "RPG",
+      "PC"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-the-next-frostpunk-game-isn-t-a-city-bui-4",
+    "category": "games",
+    "title": "The next Frostpunk game isn't a city builder, 11 Bit Studios reveal, alongside a modern \"reimagining\" of survival game This War Of Mine",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/the-next-frostpunk-game-isnt-a-city-builder-11-bit-studios-reveal-alongside-a-modern-reimagining-of-survival-game-this-war-of-mine",
+    "publishedAt": "2026-04-22",
+    "excerpt": "11 Bit Studios have confirmed that they're making a brand new Frostpunk, alongside a \"full\" reimagining of their 2014 survival story This War Of Mine, and two other \"completely ne…",
+    "cover": "https://assetsio.gnwcdn.com/frostpunk-2_K3gEYKa.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "11 Bit Studios",
+      "Frostpunk",
+      "Mystery"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-ubisoft-have-reportedly-cancelled-alterr-5",
+    "category": "games",
+    "title": "Ubisoft have reportedly cancelled Alterra, a life sim blending Animal Crossing with Minecraft, after almost three years of dev work",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/ubisoft-have-reportedly-cancelled-alterra-a-life-sim-blending-animal-crossing-with-minecraft-after-almost-three-years-of-dev-work",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Ubisoft have reportedly cancelled an unannounced life simulation game dubbed Alterra, which devs had spent nearly three years weaving into something that combines aspects of Anima…",
+    "cover": "https://assetsio.gnwcdn.com/ubisoft-logo-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Microsoft Studios",
+      "Ubisoft",
+      "First person"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-a-legend-gets-cheaper-as-the-logitech-g5-6",
+    "category": "games",
+    "title": "A legend gets cheaper as the Logitech G502 Hero gaming mouse cuts 22% off from Amazon",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/a-legend-gets-cheaper-as-the-logitech-g502-hero-gaming-mouse-cuts-22-off-from-amazon",
+    "publishedAt": "2026-04-22",
+    "excerpt": "The Logitech G502 Hero has been around for eons by this point, with former RPS chief Katharine's original review of this mouse taking place back in October 2018 (when I was just 1…",
+    "cover": "https://assetsio.gnwcdn.com/g502-hero.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "PC Gaming Deals",
+      "PC",
+      "Gaming Mice"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-520-for-this-asus-prime-rtx-5070-gpu-and-7",
+    "category": "games",
+    "title": "£520 for this Asus Prime RTX 5070 GPU and a free copy of Pragmata feels like a solid deal at the moment",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/520-for-this-asus-prime-rtx-5070-gpu-and-a-free-copy-of-pragmata-feels-like-a-solid-deal-at-the-moment",
+    "publishedAt": "2026-04-22",
+    "excerpt": "It's been a bit of a miserable time for shopping for components like RAM, SSDs, and GPUs - well, essentially anything that needs memory to function - as shortage-spiked prices rem…",
+    "cover": "https://assetsio.gnwcdn.com/asus-prime-rtx-5070-tech-deal.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Asus",
+      "PC",
+      "PC Gaming Deals"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-adding-naval-warfare-in-time-for-crusade-8",
+    "category": "games",
+    "title": "Adding naval warfare in time for Crusader Kings 3's Silk and Silver expansion would have blown Paradox's \"schedule out of [the] water\"",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/adding-naval-warfare-in-time-for-crusader-kings-3s-silk-and-silver-expansion-would-have-blown-paradoxs-schedule-out-of-the-water",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Naval warfare won't be coming to Crusader Kings 3 with the big merchant republics expansion Paradox are set to roll out towards the end of this year. The studio say that they want…",
+    "cover": "https://assetsio.gnwcdn.com/crusader-kings-3-silk-and-silver-no-naval-warfare-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "RPG",
+      "Crusader Kings III",
+      "Text"
+    ]
+  },
+  {
+    "id": "g-rock-paper-shotgun-steam-minecraft-roblox-and-fortnite-risk-9",
+    "category": "games",
+    "title": "Steam, Minecraft, Roblox and Fortnite risk \"becoming onramps to abuse, extremist violence, radicalisation or lifelong harm\", claim Australian government",
+    "source": "Rock Paper Shotgun",
+    "sourceUrl": "https://www.rockpapershotgun.com/australian-government-steam-roblox-minecraft-fortnite-extremism-grooming-transparency-notices",
+    "publishedAt": "2026-04-22",
+    "excerpt": "Update: Roblox and Epic have responded to RPS' reach-outs about the Australian government's transparency notices. Read more",
+    "cover": "https://assetsio.gnwcdn.com/australian-governiment-steam-roblox-mincraft-fortnite-extremism-grooming-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "tags": [
+      "Microsoft Studios",
+      "Fortnite",
+      "Arcade"
+    ]
+  },
+  {
+    "id": "v-designboom-oma-amo-and-solidnature-replace-supermar-1",
+    "category": "visual",
+    "title": "OMA/AMO and solidnature replace supermarket commodities with their stone lookalikes in milan",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/il-sonno-supermarket-amo-oma-fruits-vegetables-carved-solidnature-stone-milan-room-dreams/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "solidnature and OMA/AMO take over designboom's ROOM FOR DREAMS to curate a surreal stone supermarket during milan design week. The post OMA/AMO and solidnature replace supermarket…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/solidnature-il-sonno-supermarket-oma-room-for-dreams-milan-design-week-designboom-700-500x400-22b08q85r803.jpg",
+    "tags": [
+      "design",
+      "DREAMS IN MOTION",
+      "marble and stone design"
+    ]
+  },
+  {
+    "id": "v-designboom-a-lattice-yurt-rises-in-milan-as-uzbekis-2",
+    "category": "visual",
+    "title": "a lattice yurt rises in milan as uzbekistan reworks traditional craft into structure",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/lattice-yurt-milan-design-week-uzbekistan-traditional-craft-pavilion/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "uzbekistan presents 'when apricots blossom' in milan through craft driven architecture linking aral sea culture to contemporary design. The post a lattice yurt rises in milan as u…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/when-apricots-blossom-uzbekistan-milan-design-week-designboom-700-500x400-22b08q85r488.jpg",
+    "tags": [
+      "design",
+      "Milan Design Week 2026",
+      "wHY architecture"
+    ]
+  },
+  {
+    "id": "v-designboom-a-raised-walkway-weaves-tallinn-s-museum-3",
+    "category": "visual",
+    "title": "a raised walkway weaves tallinn’s museum quarter into the urban fabric",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/architecture/raised-walkway-tallinn-museum-quarter-urban-fabric-georges-batzios-architects/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "movement defines the relationship between archive and exhibition. The post a raised walkway weaves tallinn’s museum quarter into the urban fabric appeared first on designboom | ar…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/georges-batzios-architects-tallinn-city-museum-estonia-raised-walkway-designboom-700-500x400-22b08q85r746.jpg",
+    "tags": [
+      "architecture",
+      "readers",
+      "video"
+    ]
+  },
+  {
+    "id": "v-designboom-louis-vuitton-translates-bookbinding-pat-4",
+    "category": "visual",
+    "title": "louis vuitton translates bookbinding patterns into walkable courtyard installation in milan",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/louis-vuitton-bookbinding-patterns-walkable-courtyard-installation-milan-design-week-2026/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "louis vuitton scales pierre legrain’s graphic bookbinding language into a monumental courtyard intervention at palazzo serbelloni. The post louis vuitton translates bookbinding pa…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/louis-vuitton-bookbinding-patterns-walkable-courtyard-installation-milan-design-week-2026-designboom-700-500x400-22b08q85r109.jpg",
+    "tags": [
+      "design",
+      "exhibitions",
+      "louis vuitton"
+    ]
+  },
+  {
+    "id": "v-designboom-sn-hetta-and-vitra-bathrooms-and-tiles-t-5",
+    "category": "visual",
+    "title": "snøhetta and VitrA bathrooms and tiles transform university of milan into sensory landscape of circular clay",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/snohetta-vitra-bathrooms-tiles-university-milan-circular-clay/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "vitra bathrooms and tiles and snøhetta’s ‘ceramic forged in the light’ exhibition shows the achievements of technological circular design during milan design week. The post snøhet…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/vitra_snohetta_mdw_designboom_700-500x400-22b08q85r382.jpg",
+    "tags": [
+      "design",
+      "ceramic art and design",
+      "circular design"
+    ]
+  },
+  {
+    "id": "v-designboom-pia-hinz-reworks-industrial-tools-into-d-6",
+    "category": "visual",
+    "title": "pia hinz reworks industrial tools into delicate stained glass objects",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/art/pia-hinz-reworks-industrial-tools-delicate-stained-glass-traffic-cones-sculpture/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "traffic cones, ropes, and shopping carts become sculptural artworks as pia hinz employs traditional techniques with colored glass. The post pia hinz reworks industrial tools into…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/pia-hinz-stained-glass-sculpture-designboom-700-500x400-22b08q85r996.jpg",
+    "tags": [
+      "art",
+      "glass art and design",
+      "sculpture"
+    ]
+  },
+  {
+    "id": "v-designboom-pizzeria-of-promises-invites-you-to-eat--7",
+    "category": "visual",
+    "title": "pizzeria of promises invites you to eat your dreams at milan design week 2026",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/dreams-nieuwe-instituut-civicity-milan-design-week-2026/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "nieuwe instituut's CIVICITY project frames design as a collective, neighborhood-based practice grounded in real life. The post pizzeria of promises invites you to eat your dreams…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/dreams-nieuwe-instituut-civicity-milan-design-week-2026-designboom-700-1-500x400-22b08q85r480.jpg",
+    "tags": [
+      "design",
+      "DREAMS IN MOTION",
+      "Milan Design Week 2026"
+    ]
+  },
+  {
+    "id": "v-designboom-massimo-dutti-frames-its-studio-universe-8",
+    "category": "visual",
+    "title": "massimo dutti frames its studio universe in paris through space, material, and atmosphere",
+    "source": "Designboom",
+    "sourceUrl": "https://www.designboom.com/design/massimo-dutti-frames-its-studio-universe-in-paris-through-space-material-and-atmosphere/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "massimo dutti presents temporary activation in paris In Paris, fashion brand Massimo Dutti presents its creative universe through an exclusive pop-up store, conceived as a tempora…",
+    "cover": "https://www.designboom.com/wp-content/uploads/2026/04/01_limited_edition_massimo_dutti-1-500x400-22b08q85r178.jpg",
+    "tags": [
+      "design",
+      "fashion",
+      "interactive installation"
+    ]
+  },
+  {
+    "id": "v-creative-review-the-reality-of-working-with-ai-as-a-crea-3",
+    "category": "visual",
+    "title": "The reality of working with AI as a creative",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/working-with-ai-advertising/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "As AI moves from experiment to execution, CR looks into how the creative process is changing but why the fundamentals of storytelling remain the same",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/private-island-screenshot-140x91.jpg",
+    "tags": [
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "id": "v-creative-review-burger-king-reframes-the-whopper-as-the--4",
+    "category": "visual",
+    "title": "Burger King reframes the Whopper as the ultimate post-race reward",
+    "source": "Creative Review",
+    "sourceUrl": "https://www.creativereview.co.uk/burger-king-whopper-marathon-campaign-bbh/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "The brand’s latest campaign, created by BBH, builds on its Foodfillment platform by focusing on the satisfaction that follows completing a marathon",
+    "cover": "https://d12r87knhq09bn.cloudfront.net/uploads/2026/04/Burger_King_Whopper_Of_A_Finish_OOH-140x91.jpg",
+    "tags": [
+      "Food & drink"
+    ]
+  },
+  {
+    "id": "i-smashing-magazine-the-ux-designer-s-nightmare-when-product-0",
+    "category": "interaction",
+    "title": "The UX Designer’s Nightmare: When “Production-Ready” Becomes A Design Deliverable",
+    "source": "Smashing Magazine",
+    "sourceUrl": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+    "publishedAt": "2026-04-22",
+    "excerpt": "In a rush to embrace AI, the industry is redefining what it means to be a UX designer, blurring the line between design and engineering. Carrie Webster explores what’s gained, wha…",
+    "cover": "http://files.smashing.media/articles/ux-designer-nightmare-production-ready-becomes-design-deliverable/production-ready-becomes-design-deliverable-ux.jpg"
+  },
+  {
+    "id": "i-ux-collective-what-improv-taught-me-about-why-innovati-0",
+    "category": "interaction",
+    "title": "What improv taught me about why innovation falls out of sync",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/what-improv-taught-me-about-why-innovation-falls-out-of-sync-1e3961fa2083?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-22",
+    "excerpt": "When adaptation becomes uncoordinated, journeys fall out of sync — like improv comedy gone horribly wrong. Continue reading on UX Collective »",
+    "cover": "https://cdn-images-1.medium.com/max/2600/1*fCnWasttdW8XNqYQcLPFrg.jpeg",
+    "tags": [
+      "ux",
+      "artificial-intelligence",
+      "innovation"
+    ]
+  },
+  {
+    "id": "i-ux-collective-working-in-the-open-1",
+    "category": "interaction",
+    "title": "Working in the open",
+    "source": "UX Collective",
+    "sourceUrl": "https://uxdesign.cc/working-in-the-open-learnings-from-designing-open-source-technology-67a7f71bc450?source=rss----138adf9c44c---4",
+    "publishedAt": "2026-04-22",
+    "excerpt": "",
+    "tags": [
+      "open-source",
+      "careers",
+      "systems-thinking"
+    ]
+  },
+  {
+    "id": "i-awwwards-blog-not-a-portfolio-a-presence-0",
+    "category": "interaction",
+    "title": "Not a Portfolio. A Presence.",
+    "source": "Awwwards Blog",
+    "sourceUrl": "https://www.awwwards.com/not-a-portfolio-a-presence.html",
+    "publishedAt": "2026-04-22",
+    "excerpt": "This wasn’t really about building a website. It was about translating a way of seeing into something you can scroll through without breaking it.Jason...",
+    "cover": "https://www.awwwards.com/awards/images/2026/04/jb-cs-thumb.jpg"
   },
   {
     "id": "g-gamesindustry-biz-sanrio-establishes-in-house-gaming-brand-0",
